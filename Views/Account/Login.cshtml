@@ -1,0 +1,68 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Login";
+}
+
+@model HotelReservation.ViewModels.LoginViewModel
+
+<div class="inner-banner has-base-color-overlay text-center" style="background: url('~/images/background/1.jpg');">
+    <div class="container">
+        <div class="box">
+            <h3>Login</h3>
+        </div>
+    </div>
+</div>
+
+<div class="breadcumb-wrapper">
+    <div class="container">
+        <div class="pull-left">
+            <ul class="list-inline link-list">
+                <li>
+                    <a asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li>
+                    Login
+                </li>
+            </ul>
+    </div>
+</div>
+
+<section class="login_form padd-2">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-sm-12 col-xs-12">
+                <div class="sec-title">
+                    <h2>Login <span>Here</span></h2>
+                </div>
+                <div class="default-form-area">
+                    <form id="login-form" name="login_form" class="default-form" asp-action="Login" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <input asp-for="Email" class="form-control required email" placeholder="Your Email *" required />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <input asp-for="Password" type="password" class="form-control required" placeholder="Your Password *" required />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <div class="checkbox">
+                                <label>
+                                    <input asp-for="RememberMe" type="checkbox" /> Remember Me
+                                </label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <button class="btn-style-one" type="submit" data-loading-text="Please wait...">Login</button>
+                        </div>
+                        <div class="form-group text-center">
+                            <p>Don't have an account? <a asp-controller="Account" asp-action="Register">Register Here</a></p>
+                            <p><a href="forgot-password.html">Forgot Password?</a></p>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

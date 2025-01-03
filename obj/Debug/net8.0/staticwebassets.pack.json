@@ -1,0 +1,1201 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HotelReservation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HotelReservation.b1s2wg5orl.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\css\\closedhand.cur",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\closedhand.cur"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\css\\openhand.cur",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\openhand.cur"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.eot",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons90c6.eot"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\assets\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\hover.css",
+      "PackagePath": "staticwebassets\\css\\hover.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\bx_loader.html",
+      "PackagePath": "staticwebassets\\css\\images\\bx_loader.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\controls.html",
+      "PackagePath": "staticwebassets\\css\\images\\controls.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\ui-bg_glass_55_fbf9ee_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_55_fbf9ee_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\ui-bg_glass_65_ffffff_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_65_ffffff_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\ui-bg_glass_75_dadada_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_75_dadada_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\ui-bg_glass_75_e6e6e6_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_75_e6e6e6_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\ui-bg_highlight-soft_75_cccccc_1x100.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_highlight-soft_75_cccccc_1x100.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\ui-icons_222222_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_222222_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\ui-icons_2e83ff_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_2e83ff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\ui-icons_454545_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_454545_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\ui-icons_888888_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_888888_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\images\\ui-icons_cd0a0a_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_cd0a0a_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\css\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\jquery.bxslider.css",
+      "PackagePath": "staticwebassets\\css\\jquery.bxslider.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\masterslider\\grab.html",
+      "PackagePath": "staticwebassets\\css\\masterslider\\grab.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\masterslider\\grabbing.html",
+      "PackagePath": "staticwebassets\\css\\masterslider\\grabbing.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\masterslider\\light-skin-1-retina.html",
+      "PackagePath": "staticwebassets\\css\\masterslider\\light-skin-1-retina.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\masterslider\\light-skin-1.html",
+      "PackagePath": "staticwebassets\\css\\masterslider\\light-skin-1.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\masterslider\\loading-2.html",
+      "PackagePath": "staticwebassets\\css\\masterslider\\loading-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\masterslider\\masterslider.css",
+      "PackagePath": "staticwebassets\\css\\masterslider\\masterslider.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\masterslider\\ms-caro3d.css",
+      "PackagePath": "staticwebassets\\css\\masterslider\\ms-caro3d.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\masterslider\\style.css",
+      "PackagePath": "staticwebassets\\css\\masterslider\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\masterslider\\video-close-btn.html",
+      "PackagePath": "staticwebassets\\css\\masterslider\\video-close-btn.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\nouislider.css",
+      "PackagePath": "staticwebassets\\css\\nouislider.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\nouislider.pips.css",
+      "PackagePath": "staticwebassets\\css\\nouislider.pips.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\polyglot-language-switcher.css",
+      "PackagePath": "staticwebassets\\css\\polyglot-language-switcher.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\fontawesome-webfont3295.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3295.eot"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\fontawesome-webfont3295.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3295.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\fontawesome-webfont3295.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3295.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\fontawesome-webfont3295.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3295.woff"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\fontawesome-webfont3295.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3295.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\icomoona1f3.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoona1f3.eot"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\icomoona1f3.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoona1f3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\icomoona1f3.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoona1f3.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\icomoona1f3.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoona1f3.woff"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\webfont\\flexslider-icon.html",
+      "PackagePath": "staticwebassets\\fonts\\webfont\\flexslider-icon.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\webfonts\\flexslider-icon-2.html",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\flexslider-icon-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\webfonts\\flexslider-icon-3.html",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\flexslider-icon-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\webfonts\\flexslider-icon.html",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\flexslider-icon.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\fonts\\webfonts\\flexslider-icond41d.html",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\flexslider-icond41d.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\app_logo.png",
+      "PackagePath": "staticwebassets\\images\\app_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\arrow-down.html",
+      "PackagePath": "staticwebassets\\images\\arrow-down.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\background\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\background\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\background\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\background\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\background\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\background\\pool.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\pool.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\background\\rb.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\rb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\author-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\author-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\author-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\author-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\author-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\author-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\bs-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\bs-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\bs-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\bs.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\blog\\post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\fancybox\\blank.gif",
+      "PackagePath": "staticwebassets\\images\\fancybox\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\fancybox\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\fancybox\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\fancybox\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\fancybox\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\fancybox\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\favicon\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\favicon\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\favicon\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\images\\favicon\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\favicon\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\images\\favicon\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\flags\\de.html",
+      "PackagePath": "staticwebassets\\images\\flags\\de.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\flags\\es.html",
+      "PackagePath": "staticwebassets\\images\\flags\\es.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\flags\\fr.html",
+      "PackagePath": "staticwebassets\\images\\flags\\fr.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\flags\\gb.html",
+      "PackagePath": "staticwebassets\\images\\flags\\gb.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\flags\\it.html",
+      "PackagePath": "staticwebassets\\images\\flags\\it.html"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\16.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\17.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\icons\\preloader.gif",
+      "PackagePath": "staticwebassets\\images\\icons\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\228A6390.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\228A6390.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\Pool Villa (general View).jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\Pool Villa (general View).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\Villa Namaskar (General View).jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\Villa Namaskar (General View).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\ab.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\i1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\i1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\i2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\i2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\i3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\i3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\map-marker.png",
+      "PackagePath": "staticwebassets\\images\\resource\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\nam 179.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\nam 179.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\nam-179-scaled.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\nam-179-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\r1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\r1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\r2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\r2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\r3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\r3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\r4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\r4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\r5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\r5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\r6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\r6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\rd.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\rd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\romantic.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\romantic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\sp-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\sp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\sp-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\sp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\sp-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\sp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\t1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\t4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\t5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\t5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\t6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\t6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\t7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\t7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\t8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\t8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\t9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\t9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\tb.png",
+      "PackagePath": "staticwebassets\\images\\resource\\tb.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\resource\\tb2.png",
+      "PackagePath": "staticwebassets\\images\\resource\\tb2.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\service\\1.png",
+      "PackagePath": "staticwebassets\\images\\service\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\service\\service-1.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\service\\service-2.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\service\\service-3.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\service\\ss.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\ss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\team\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\team\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\team\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\team\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\default-map.js",
+      "PackagePath": "staticwebassets\\js\\default-map.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\gmap.js",
+      "PackagePath": "staticwebassets\\js\\gmap.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\imagezoom.js",
+      "PackagePath": "staticwebassets\\js\\imagezoom.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\js\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery.fancybox.pack.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.pack.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery.fitvids.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fitvids.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery.polyglot.language.switcher.js",
+      "PackagePath": "staticwebassets\\js\\jquery.polyglot.language.switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery.timepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\nouislider.js",
+      "PackagePath": "staticwebassets\\js\\nouislider.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\validation.js",
+      "PackagePath": "staticwebassets\\js\\validation.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HotelReservation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HotelReservation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HotelReservation.props",
+      "PackagePath": "build\\HotelReservation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelReservation.props",
+      "PackagePath": "buildMultiTargeting\\HotelReservation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HotelReservation.props",
+      "PackagePath": "buildTransitive\\HotelReservation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
