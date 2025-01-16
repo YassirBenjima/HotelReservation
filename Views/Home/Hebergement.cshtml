@@ -1,0 +1,144 @@
+﻿@model List<HotelReservation.Models.Room>
+
+@{
+    ViewData["Title"] = "Hébergement";
+}
+
+<div class="inner-banner has-base-color-overlay text-center" style="background: url(/images/background/5.jpg);">
+    <div class="container">
+        <div class="box">
+            <h3>Hébergement - Découvrez nos chambres</h3>
+        </div>
+    </div>
+</div>
+
+<div class="breadcumb-wrapper">
+    <div class="container">
+        <div class="pull-left">
+            <ul class="list-inline link-list">
+                <li><a href="@Url.Action("Index", "Home")">Accueil</a></li>
+                <li><a href="@Url.Action("Hebergement", "Home")">Hébergement</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<section class="rooms-section padd-1 style-2">
+    <div class="container">
+        <div class="row">
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var room in Model)
+                {
+                    <!-- Room Box -->
+                    <div class="col-md-4 col-sm-6 room-box style-2">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <img src="@(room.Room_Image != null ? "data:image/jpeg;base64," + Convert.ToBase64String(room.Room_Image) : "/images/resource/Pool Villa (general View).jpg")" alt="@room.RoomType" />
+                            </div>
+                            <!-- Lower Content -->
+                            <div class="lower-content">
+                                <h3>
+                                    <a href="@Url.Action("Details", "Rooms", new { id = room.RoomNumber })">@room.RoomType</a>
+                                </h3>
+                                <div class="price clearfix">
+                                   @room.RoomPrice MAD <a href="@Url.Action("Book", "Rooms", new { id = room.RoomNumber })">Réserver</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <p>Aucune chambre n'est disponible pour le moment.</p>
+            }
+        </div>
+    </div>
+</section>
+
+<footer class="main-footer">
+    <!--Widgets Section-->
+    <div class="widgets-section">
+        <div class="container">
+            <div class="row">
+                <!--Big Column-->
+                <div class="big-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="row clearfix">
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget about-widget">
+                                <figure class="footer-logo"><a href="index.html"><img src="images/logo/logo2.png" alt=""></a></figure>
+                                <div class="widget-content">
+                                    <ul class="contact-info">
+                                        <li>23/223 Apple Street, New York</li>
+                                        <li>Phone: +123-456-7890</li>
+                                        <li>Mail@Nilacholteam.com</li>
+                                    </ul>
+                                    <ul class="social">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget service-widget">
+                                <div class="section-title">
+                                    <h3>Our Services</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="list">
+                                        <li><a href="service-single.html">Room Services</a></li>
+                                        <li><a href="service-single.html">Climatisation</a></li>
+                                        <li><a href="service-single.html">Parking</a></li>
+                                        <li><a href="service-single.html">Wifi haut débit</a></li>
+                                        <li><a href="service-single.html">Piscine extérieure</a></li>
+                                        <li><a href="service-single.html">Café restaurant</a></li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Big Column-->
+                <div class="big-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="row clearfix">
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget links-widget">
+                                <div class="section-title">
+                                    <h3>Quick Links</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="list">
+                                        <li><a asp-controller="Home" asp-action="Index">Accueil</a></li>
+                                        <li><a href="@Url.Action("Hebergement", "Home")">Hebergement</a></li>
+                                        <li><a asp-controller="Home" asp-action="Gallery">Galerie</a></li>
+                                        <li><a href="service.html">Contact</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Footer Bottom-->
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="copy-text center">
+                <p>Copyrights © 2018 All Rights Reserved by <a asp-controller="Home" asp-action="Index"> Yassir Benjima.</a></p>
+            </div>
+        </div>
+    </div>
+</footer>
+

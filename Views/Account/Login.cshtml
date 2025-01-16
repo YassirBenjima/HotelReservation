@@ -5,7 +5,7 @@
 
 @model HotelReservation.ViewModels.LoginViewModel
 
-<div class="inner-banner has-base-color-overlay text-center" style="background: url('~/images/background/1.jpg');">
+<div class="inner-banner has-base-color-overlay text-center" style="background: url('/images/background/5.jpg');">
     <div class="container">
         <div class="box">
             <h3>Login</h3>
@@ -24,6 +24,7 @@
                     Login
                 </li>
             </ul>
+        </div>
     </div>
 </div>
 
@@ -31,38 +32,144 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-6 col-sm-12 col-xs-12">
-                <div class="sec-title">
+                <div class="sec-title text-center">
                     <h2>Login <span>Here</span></h2>
                 </div>
                 <div class="default-form-area">
-                    <form id="login-form" name="login_form" class="default-form" asp-action="Login" method="post">
-                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <form id="login-form" name="login_form" class="default-form text-center" asp-action="Login" method="post">
+                        <div asp-validation-summary="All" class="text-danger"></div>
+
                         <div class="form-group">
-                            <input asp-for="Email" class="form-control required email" placeholder="Your Email *" required />
+                            <input asp-for="Email" class="form-control required email" placeholder="Votre Email *" required />
                             <span asp-validation-for="Email" class="text-danger"></span>
                         </div>
+
                         <div class="form-group">
-                            <input asp-for="Password" type="password" class="form-control required" placeholder="Your Password *" required />
+                            <input asp-for="Password" type="password" class="form-control required" placeholder="Votre Mot de Passe *" required />
                             <span asp-validation-for="Password" class="text-danger"></span>
                         </div>
+
                         <div class="form-group">
-                            <div class="checkbox">
-                                <label>
-                                    <input asp-for="RememberMe" type="checkbox" /> Remember Me
-                                </label>
-                            </div>
+                            <button class="btn-style-one" type="submit" data-loading-text="Please wait...">Se Connecter</button>
                         </div>
-                        <div class="form-group">
-                            <button class="btn-style-one" type="submit" data-loading-text="Please wait...">Login</button>
-                        </div>
+
                         <div class="form-group text-center">
-                            <p>Don't have an account? <a asp-controller="Account" asp-action="Register">Register Here</a></p>
-                            <p><a href="forgot-password.html">Forgot Password?</a></p>
+                            <p><a asp-controller="Account" asp-action="Register">S'inscrire ici</a></p>
+                            @* <p><a href="forgot-password.html">Mot de passe oublié?</a></p> *@
                         </div>
                     </form>
-
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<!--Map Section-->
+<div class="map-section">
+    <div class="map-outer">
+        <!--Map Canvas-->
+        <iframe width="1920" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=1980&amp;height=400&amp;hl=en&amp;q=05%20lot%20bouizgaren,%20Rte%20de%20Safi,%20Marrakech%2040000%20Marrakech+(ECOLE%20MAROCAINE%20DES%20SCIENCES%20DE%20L'INGENIEUR)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> 
+        <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=a552982b282ccb17c023d6306858eb1d053898c0'></script>
+    </div>
+</div>
+
+<!--End Map Section-->
+<!--subscribe Box-->
+@* <section class="subscirbe-section" style="background-image:url(images/background/5.jpg);"> *@
+@*     <div class="container"> *@
+@*         <div class="row clearfix"> *@
+@*             <div class="column col-md-8 col-sm-12 col-xs-12"> *@
+@*                 <h2>Subscirbe Newsletter!</h2> *@
+@*             </div> *@
+@*             <div class="btn-column col-md-4 col-sm-12 col-xs-12"> *@
+@*                 <a href="#" class="btn-style-seven">subscribe now</a> *@
+@*             </div> *@
+@*         </div> *@
+@*     </div> *@
+@* </section> *@
+<!--End subscribe Box-->
+<!--Main Footer-->
+<footer class="main-footer">
+    <!--Widgets Section-->
+    <div class="widgets-section">
+        <div class="container">
+            <div class="row">
+                <!--Big Column-->
+                <div class="big-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="row clearfix">
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget about-widget">
+                                <figure class="footer-logo"><a href="index.html"><img src="images/logo/logo2.png" alt=""></a></figure>
+                                <div class="widget-content">
+                                    <ul class="contact-info">
+                                        <li>23/223 Apple Street, New York</li>
+                                        <li>Phone: +123-456-7890</li>
+                                        <li>Mail@Nilacholteam.com</li>
+                                    </ul>
+                                    <ul class="social">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget service-widget">
+                                <div class="section-title">
+                                    <h3>Our Services</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="list">
+                                        <li><a href="service-single.html">Room Services</a></li>
+                                        <li><a href="service-single.html">Climatisation</a></li>
+                                        <li><a href="service-single.html">Parking</a></li>
+                                        <li><a href="service-single.html">Wifi haut débit</a></li>
+                                        <li><a href="service-single.html">Piscine extérieure</a></li>
+                                        <li><a href="service-single.html">Café restaurant</a></li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Big Column-->
+                <div class="big-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="row clearfix">
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget links-widget">
+                                <div class="section-title">
+                                    <h3>Quick Links</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="list">
+                                        <li><a asp-controller="Home" asp-action="Index">Accueil</a></li>
+                                        <li><a href="contact.html">Hebergement</a></li>
+                                        <li><a asp-controller="Home" asp-action="Gallery">Galerie</a></li>
+                                        <li><a href="service.html">Contact</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Footer Bottom-->
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="copy-text center">
+                <p>Copyrights © 2018 All Rights Reserved by <a href="index.html"> Yassir Benjima.</a></p>
+            </div>
+        </div>
+    </div>
+</footer>

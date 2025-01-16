@@ -417,6 +417,10 @@
       "PackagePath": "staticwebassets\\images\\background\\6.jpg"
     },
     {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\background\\Pool Suite.JPG",
+      "PackagePath": "staticwebassets\\images\\background\\Pool Suite.JPG"
+    },
+    {
       "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\background\\pool.jpg",
       "PackagePath": "staticwebassets\\images\\background\\pool.jpg"
     },
@@ -631,6 +635,362 @@
     {
       "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\9.jpg",
       "PackagePath": "staticwebassets\\images\\gallery\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain Palace (General view).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain Palace (General view).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain Palace (Mastersuite) 2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain Palace (Mastersuite) 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain Palace (Private terrasse).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain Palace (Private terrasse).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain Palace (Salon).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain Palace (Salon).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain Palace (bathroom).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain Palace (bathroom).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain Palace Bedrrom 2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain Palace Bedrrom 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain palace (detail).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain palace (detail).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain palace room 1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Mountain palace room 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Palace Pool.gif",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Palace Pool.gif"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\vue piscine Mountain Palace.JPG",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Mountain Palace\\vue piscine Mountain Palace.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\024namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\024namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\234namaskar2© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\234namaskar2© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Pool Palace ( Master Suite Bedroom 1).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Pool Palace ( Master Suite Bedroom 1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Pool Palace (Master Suite Terrace).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Pool Palace (Master Suite Terrace).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Pool Palace (Master suite Salon).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Pool Palace (Master suite Salon).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Pool Palace (Private Pool).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Pool Palace (Private Pool).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Pool Palace Bathroom.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Pool Palace Bathroom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Pool Palace view.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Pool Palace view.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Pool Palace\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\046namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\046namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\068namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\068namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\070namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\070namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\071namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\071namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\072namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\072namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\080namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\080namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\081namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\081namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\084namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\084namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\Water Palace (Bedroom 2).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\Water Palace (Bedroom 2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\Water Palace (General view).JPG",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\Water Palace (General view).JPG"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\Water Palace (Master Suite).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\Water Palace (Master Suite).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\Water Palace (Private Balcony).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\Water Palace (Private Balcony).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\Water Palace (Salon.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Palaces\\Water Palace\\Water Palace (Salon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Rooms\\Deluxe Room\\053namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Rooms\\Deluxe Room\\053namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Rooms\\Deluxe Room\\DAK_6407.JPG",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Rooms\\Deluxe Room\\DAK_6407.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Rooms\\Deluxe Room\\Deluxe Room (Bathroom).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Rooms\\Deluxe Room\\Deluxe Room (Bathroom).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Rooms\\Deluxe Room\\Deluxe Room (Terrace).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Rooms\\Deluxe Room\\Deluxe Room (Terrace).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Rooms\\Deluxe Room\\Deluxe Room Terrace.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Rooms\\Deluxe Room\\Deluxe Room Terrace.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Rooms\\Deluxe Room\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Rooms\\Deluxe Room\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Rooms\\Superior Room\\033namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Rooms\\Superior Room\\033namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Rooms\\Superior Room\\050namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Rooms\\Superior Room\\050namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Rooms\\Superior Room\\Namaskar-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Rooms\\Superior Room\\Namaskar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Rooms\\Superior Room\\Superior Room (Bedroom).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Rooms\\Superior Room\\Superior Room (Bedroom).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Rooms\\Superior Room\\Superior Room Terrace.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Rooms\\Superior Room\\Superior Room Terrace.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Rooms\\Superior Room\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Rooms\\Superior Room\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\042namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\042namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Junior Suite (2).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Junior Suite (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Junior Suite (Bathroom).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Junior Suite (Bathroom).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Junior Suite (Plunge Pool view).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Junior Suite (Plunge Pool view).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Junior Suite (Plunge Pool).JPG",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Junior Suite (Plunge Pool).JPG"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Junior Suite Terace.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Junior Suite Terace.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Junuior Suite (Interior).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Junuior Suite (Interior).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\_MG_8145D.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\_MG_8145D.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\ext junior suite.JPG",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Junior Suite\\ext junior suite.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\026namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\026namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\034namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\034namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\035namaskar1© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\035namaskar1© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\208namaskar2© ivan franchet.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\208namaskar2© ivan franchet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\Louge Suite (Bedroom).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\Louge Suite (Bedroom).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\Lounge Suite (Bathroom).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\Lounge Suite (Bathroom).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Lounge Suite\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Pool Suite  (Terrace & Pool).JPG",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Pool Suite  (Terrace & Pool).JPG"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Pool Suite (1).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Pool Suite (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Pool Suite (2).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Pool Suite (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Pool Suite (Bathroom).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Pool Suite (Bathroom).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Pool Suite (Livingroom).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Pool Suite (Livingroom).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Pool Suite Terrace.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Pool Suite Terrace.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Suites\\Pool Suite\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa (2).JPG",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa (2).JPG"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa (Romantic Bath).JPG",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa (Romantic Bath).JPG"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa (general View).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa (general View).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa Bathroom.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa Bathroom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa Bedroom.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa Bedroom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa Livingroom.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa Livingroom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa Terrace.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Pool Villa Terrace.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Terrasse Pool Villa.JPG",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Terrasse Pool Villa.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Pool Villa\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\DAK_5217.JPG",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\DAK_5217.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar (Bathroom).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar (Bathroom).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar (Bedroom 2).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar (Bedroom 2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar (Bedroom 3).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar (Bedroom 3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar (Garden).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar (Garden).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar (General View).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar (General View).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar (Salon).jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar (Salon).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar Bathroom.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar Bathroom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar Bedroom 1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar Bedroom 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar Living Room.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\Hebergement\\Villas\\Villa Namaskar\\Villa Namaskar Living Room.jpg"
     },
     {
       "Id": "C:\\Users\\Yassir\\source\\repos\\HotelReservation\\HotelReservation\\wwwroot\\images\\icons\\preloader.gif",

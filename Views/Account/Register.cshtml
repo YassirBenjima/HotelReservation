@@ -1,0 +1,199 @@
+﻿@model HotelReservation.ViewModels.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="inner-banner has-base-color-overlay text-center" style="background: url('/images/background/5.jpg');">
+    <div class="container">
+        <div class="box">
+            <h3>Register</h3>
+        </div>
+    </div>
+</div>
+
+<div class="breadcumb-wrapper">
+    <div class="container">
+        <div class="pull-left">
+            <ul class="list-inline link-list">
+                <li>
+                    <a asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li>
+                    Register
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<section class="login_form padd-2">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-sm-12 col-xs-12">
+                <div class="sec-title text-center">
+                    <h2>Register <span>Here</span></h2>
+                </div>
+                <div class="default-form-area">
+                    <form id="register-form" name="register_form" class="default-form text-center" asp-action="Register" method="post">
+                        @* <div asp-validation-summary="All" class="text-danger"></div> *@
+
+                        <div class="form-group">
+                            <input asp-for="Email" class="form-control required email" placeholder="Votre Email *" required />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <input asp-for="Password" type="password" class="form-control required" placeholder="Votre Mot de Passe *" required />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <input asp-for="ConfirmPassword" type="password" class="form-control required" placeholder="Confirmez votre Mot de Passe *" required />
+                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <input asp-for="FirstName" class="form-control required" placeholder="Votre Prénom *" required />
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <input asp-for="LastName" class="form-control required" placeholder="Votre Nom *" required />
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <input asp-for="Phone" class="form-control required" placeholder="Votre Téléphone *" required />
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <input asp-for="Address" class="form-control required" placeholder="Votre Adresse *" required />
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <button class="btn-style-one" type="submit" data-loading-text="Please wait...">S'inscrire</button>
+                        </div>
+
+                        <div class="form-group text-center">
+                            <p><a asp-controller="Account" asp-action="Login">Déjà un compte? Connectez-vous ici</a></p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!--Map Section-->
+<div class="map-section">
+    <div class="map-outer">
+        <!--Map Canvas-->
+        <iframe width="1920" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=1980&amp;height=400&amp;hl=en&amp;q=05%20lot%20bouizgaren,%20Rte%20de%20Safi,%20Marrakech%2040000%20Marrakech+(ECOLE%20MAROCAINE%20DES%20SCIENCES%20DE%20L'INGENIEUR)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+        <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=a552982b282ccb17c023d6306858eb1d053898c0'></script>
+    </div>
+</div>
+
+<!--End Map Section-->
+<!--subscribe Box-->
+@* <section class="subscirbe-section" style="background-image:url(images/background/5.jpg);"> *@
+@*     <div class="container"> *@
+@*         <div class="row clearfix"> *@
+@*             <div class="column col-md-8 col-sm-12 col-xs-12"> *@
+@*                 <h2>Subscirbe Newsletter!</h2> *@
+@*             </div> *@
+@*             <div class="btn-column col-md-4 col-sm-12 col-xs-12"> *@
+@*                 <a href="#" class="btn-style-seven">subscribe now</a> *@
+@*             </div> *@
+@*         </div> *@
+@*     </div> *@
+@* </section> *@
+<!--End subscribe Box-->
+<!--Main Footer-->
+<footer class="main-footer">
+    <!--Widgets Section-->
+    <div class="widgets-section">
+        <div class="container">
+            <div class="row">
+                <!--Big Column-->
+                <div class="big-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="row clearfix">
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget about-widget">
+                                <figure class="footer-logo"><a href="index.html"><img src="images/logo/logo2.png" alt=""></a></figure>
+                                <div class="widget-content">
+                                    <ul class="contact-info">
+                                        <li>23/223 Apple Street, New York</li>
+                                        <li>Phone: +123-456-7890</li>
+                                        <li>Mail@Nilacholteam.com</li>
+                                    </ul>
+                                    <ul class="social">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget service-widget">
+                                <div class="section-title">
+                                    <h3>Our Services</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="list">
+                                        <li><a href="service-single.html">Room Services</a></li>
+                                        <li><a href="service-single.html">Climatisation</a></li>
+                                        <li><a href="service-single.html">Parking</a></li>
+                                        <li><a href="service-single.html">Wifi haut débit</a></li>
+                                        <li><a href="service-single.html">Piscine extérieure</a></li>
+                                        <li><a href="service-single.html">Café restaurant</a></li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Big Column-->
+                <div class="big-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="row clearfix">
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget links-widget">
+                                <div class="section-title">
+                                    <h3>Quick Links</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="list">
+                                        <li><a href="about.html">Accueil</a></li>
+                                        <li><a href="contact.html">Hebergement</a></li>
+                                        <li><a href="team.html">Galerie</a></li>
+                                        <li><a href="service.html">Contact</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Footer Bottom-->
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="copy-text center">
+                <p>Copyrights © 2018 All Rights Reserved by <a href="index.html"> Yassir Benjima.</a></p>
+            </div>
+        </div>
+    </div>
+</footer>

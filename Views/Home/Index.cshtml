@@ -38,7 +38,7 @@
                      data-start="2300">
                     <div class="slide-content-box">
                         <div class="button">
-                            <a class="btn-style-five" href="about.html">Réservez</a>
+                            <a class="btn-style-five" href="@Url.Action("Hebergement", "Home")">Réservez</a>
                         </div>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                      data-start="2600">
                     <div class="slide-content-box">
                         <div class="button">
-                            <a class="btn-style-six" href="contact.html">Contactez-nous</a>
+                            <a class="btn-style-six" href="@Url.Action("Hebergement", "Home")">Contactez-nous</a>
                         </div>
                     </div>
                 </div>
@@ -92,7 +92,7 @@
                      data-start="2300">
                     <div class="slide-content-box">
                         <div class="button">
-                            <a class="btn-style-five" href="about.html">Réservez</a>
+                            <a class="btn-style-five" href="@Url.Action("Hebergement", "Home")">Réservez</a>
                         </div>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                      data-start="2600">
                     <div class="slide-content-box">
                         <div class="button">
-                            <a class="btn-style-six" href="contact.html">Contactez-nous</a>
+                            <a class="btn-style-six" href="@Url.Action("Hebergement", "Home")">Contactez-nous</a>
                         </div>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
                      data-start="2300">
                     <div class="slide-content-box">
                         <div class="button">
-                            <a class="btn-style-five" href="about.html">Réservez</a>
+                            <a class="btn-style-five" href="@Url.Action("Hebergement", "Home")">Réservez</a>
                         </div>
                     </div>
                 </div>
@@ -162,7 +162,7 @@
                      data-start="2600">
                     <div class="slide-content-box">
                         <div class="button">
-                            <a class="btn-style-six" href="contact.html">Contactez-nous</a>
+                            <a class="btn-style-six" href="@Url.Action("Hebergement", "Home")">Contactez-nous</a>
                         </div>
                     </div>
                 </div>
@@ -256,7 +256,6 @@
 <!--Rooms Section-->
 <section class="rooms-section padd-2" style="background-image:url(images/background/rb.jpg);">
     <div class="container">
-
         <!--Sec Title One-->
         <div class="sec-title center light">
             <h2><span>Chambre </span>d'hôtel</h2>
@@ -265,25 +264,26 @@
         <div class="three-item-carousel">
             @{
                 var rooms = ViewBag.Rooms as List<Room>;
-                var images = new List<string>
-            {
-            "images/resource/r1.jpg",
-            "images/resource/r2.jpg",
-            "images/resource/r3.jpg",
-            "images/resource/r4.jpg"
-            };
             }
 
             @if (rooms != null && rooms.Any())
             {
-                int index = 0; 
                 @foreach (var room in rooms)
                 {
                     <div class="room-box">
                         <div class="inner-box">
                             <div class="image-box">
-                                <img src="@images[index % images.Count]" alt="Image of @room.RoomType" />
+                                @if (room.Room_Image != null && room.Room_Image.Length > 0)
+                                {
+                                    <img src="data:image/jpeg;base64,@Convert.ToBase64String(room.Room_Image)" alt="Image of @room.RoomType" />
+                                }
+                                else
+                                {
+                                    <!-- Default Image if Room_Image is null -->
+                                    <img src="images/resource/Pool Villa (general View).jpg" alt="Default Image" />
+                                }
                             </div>
+
                             <div class="lower-content">
                                 <div class="rating">
                                     <span class="fa fa-star"></span>
@@ -293,11 +293,13 @@
                                     <span class="fa fa-star"></span>
                                 </div>
                                 <h3><a href="single-room.html">@room.RoomType</a></h3>
-                                <div class="price clearfix">@room.Price MAD <a href="#">Book Now</a></div>
+                                <div class="price clearfix">
+                                    @room.RoomPrice MAD
+                                    <a href="@Url.Action("Book", "Rooms", new { id = room.RoomNumber })">Réserver</a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    index++;
                 }
             }
             else
@@ -305,10 +307,10 @@
                 <p>No rooms available</p>
             }
         </div>
-
-
     </div>
 </section>
+
+
 <!--End Rooms Section-->
 <!--subscribe Box-->
 <section class="subscirbe-section" style="background-image:url(images/background/5.jpg);">
@@ -318,7 +320,7 @@
                 <h2>Réservez dès maintenant!</h2>
             </div>
             <div class="btn-column col-md-4 col-sm-12 col-xs-12">
-                <a href="#" class="btn-style-seven">Réservez</a>
+                <a href="@Url.Action("Hebergement", "Home")" class="btn-style-seven">Réservez</a>
             </div>
         </div>
     </div>
@@ -426,47 +428,55 @@
 
 
 <!--Fact Counter-->
-<section class="fact-counter" style="background-image:url(images/background/2.jpg);">
+<section class="fact-counter" style="background-image:url(images/resource/228A6390.jpg);">
     <div class="container">
         <div class="row clearfix">
             <div class="counter-outer clearfix">
-                <!--Column-->
+                <!-- Column: Happy Clients -->
                 <article class="column counter-column col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
                     <div class="item">
                         <div class="icon"><i class="flaticon-happy"></i></div>
-                        <div class="count-outer"><span class="count-text" data-speed="3000" data-stop="1382">0</span>+</div>
-                        <h4 class="counter-title">Happy Clients</h4>
+                        <div class="count-outer">
+                            <span class="count-text" data-speed="6000" data-stop="@ViewBag.TotalClients">0</span>+
+                        </div>
+                        <h4 class="counter-title">Clients satisfaits</h4>
                     </div>
-
                 </article>
 
-                <!--Column-->
+                <!-- Column: Awards Winning (This one remains unchanged) -->
                 <article class="column counter-column col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
                     <div class="item">
-                        <div class="icon"><i class="flaticon-competition"></i></div>
-                        <div class="count-outer"><span class="count-text" data-speed="3000" data-stop="289">0</span></div>
-                        <h4 class="counter-title">Awards Winning</h4>
+                        <div class="icon"><i class="flaticon-calendar"></i></div>
+                        <div class="count-outer">
+                            <span class="count-text" data-speed="6000" data-stop="@ViewBag.TotalReservations">0</span>
+                        </div>
+                        <h4 class="counter-title">Réservations</h4>
                     </div>
                 </article>
 
-                <!--Column-->
+                <!-- Column: Our Staff -->
                 <article class="column counter-column col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
                     <div class="item">
                         <div class="icon"><i class="flaticon-network"></i></div>
-                        <div class="count-outer"><span class="count-text" data-speed="3000" data-stop="754">0</span></div>
-                        <h4 class="counter-title">Our Staff</h4>
+                        <div class="count-outer">
+                            <span class="count-text" data-speed="6000" data-stop="@ViewBag.TotalUsers">0</span>
+                        </div>
+                        <h4 class="counter-title">Notre équipe</h4>
                     </div>
                 </article>
 
-                <!--Column-->
+                <!-- Column: Total Rooms -->
                 <article class="column counter-column col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
                     <div class="item">
-                        <div class="icon"><i class="flaticon-coffee-cup"></i></div>
-                        <div class="count-outer"><span class="count-text" data-speed="3000" data-stop="3650">0</span>+</div>
-                        <h4 class="counter-title">Cup of Coffee</h4>
+                        <div class="icon"><i class="flaticon-bed"></i></div> <!-- Change icon to bed for rooms -->
+                        <div class="count-outer">
+                            <span class="count-text" data-speed="6000" data-stop="@ViewBag.TotalRooms">0</span>+
+                        </div>
+                        <h4 class="counter-title">Chambres</h4> <!-- Change text to Total Rooms -->
                     </div>
                 </article>
             </div>
+
         </div>
     </div>
 </section>
@@ -527,57 +537,57 @@
 
 <!--End our team area-->
 <!--Testimonials-->
-<section class="testimonials-section padd-2" style="background-image:url(images/background/pool.jpg);">
-    <div class="container">
+@* <section class="testimonials-section padd-2" style="background-image:url(images/background/pool.jpg);"> *@
+@*     <div class="container"> *@
 
-        <!--Slider-->
-        <div class="testimonials-slider  owl-carousel owl-theme owl-nav-none owl-dot-style-one">
+@*         <!--Slider--> *@
+@*         <div class="testimonials-slider  owl-carousel owl-theme owl-nav-none owl-dot-style-one"> *@
 
-            <!--Slide-->
-            <article class="testimonial-slide-item">
-                <figure class="image-box"><img src="images/resource/Villa Namaskar (General View).jpg" alt=""></figure>
-                <div class="info-box">
-                    <h3>Sanzida Akon</h3>
-                    <p class="designation">Founder</p>
-                </div>
+@*             <!--Slide--> *@
+@*             <article class="testimonial-slide-item"> *@
+@*                 <figure class="image-box"><img src="images/resource/Villa Namaskar (General View).jpg" alt=""></figure> *@
+@*                 <div class="info-box"> *@
+@*                     <h3>Sanzida Akon</h3> *@
+@*                     <p class="designation">Founder</p> *@
+@*                 </div> *@
 
-                <div class="text">
-                    “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed varius nulla. Ut et maximus nunc. Vivamus ligula metus, dapibus sed faucibus non, ultrices eu lorem. Sed leo nisl, eleifend sit amet nulla in, tristique consequat dui. Maecenas non risus nibh. Aliquam et lobortis dolor.”
-                </div>
-            </article>
+@*                 <div class="text"> *@
+@*                     “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed varius nulla. Ut et maximus nunc. Vivamus ligula metus, dapibus sed faucibus non, ultrices eu lorem. Sed leo nisl, eleifend sit amet nulla in, tristique consequat dui. Maecenas non risus nibh. Aliquam et lobortis dolor.” *@
+@*                 </div> *@
+@*             </article> *@
 
-            <!--Slide-->
-            <article class="testimonial-slide-item">
-                <figure class="image-box"><img src="images/resource/Pool Villa (general View).jpg" alt=""></figure>
-                <div class="info-box">
-                    <h3>Albert Muzad</h3>
-                    <p class="designation">Co-Founder</p>
-                </div>
+@*             <!--Slide--> *@
+@*             <article class="testimonial-slide-item"> *@
+@*                 <figure class="image-box"><img src="images/resource/Pool Villa (general View).jpg" alt=""></figure> *@
+@*                 <div class="info-box"> *@
+@*                     <h3>Albert Muzad</h3> *@
+@*                     <p class="designation">Co-Founder</p> *@
+@*                 </div> *@
 
-                <div class="text">
-                    “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed varius nulla. Ut et maximus nunc. Vivamus ligula metus, dapibus sed faucibus non, ultrices eu lorem. Sed leo nisl, eleifend sit amet nulla in, tristique consequat dui. Maecenas non risus nibh. Aliquam et lobortis dolor.”
-                </div>
-            </article>
+@*                 <div class="text"> *@
+@*                     “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed varius nulla. Ut et maximus nunc. Vivamus ligula metus, dapibus sed faucibus non, ultrices eu lorem. Sed leo nisl, eleifend sit amet nulla in, tristique consequat dui. Maecenas non risus nibh. Aliquam et lobortis dolor.” *@
+@*                 </div> *@
+@*             </article> *@
 
-            <!--Slide-->
-            <article class="testimonial-slide-item">
-                <figure class="image-box"><img src="images/resource/Pool Villa (general View).jpg" alt=""></figure>
-                <div class="info-box">
-                    <h3>Juthi Kumb</h3>
-                    <p class="designation">Co-Founder</p>
-                </div>
+@*             <!--Slide--> *@
+@*             <article class="testimonial-slide-item"> *@
+@*                 <figure class="image-box"><img src="images/resource/Pool Villa (general View).jpg" alt=""></figure> *@
+@*                 <div class="info-box"> *@
+@*                     <h3>Juthi Kumb</h3> *@
+@*                     <p class="designation">Co-Founder</p> *@
+@*                 </div> *@
 
-                <div class="text">
-                    “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed varius nulla. Ut et maximus nunc. Vivamus ligula metus, dapibus sed faucibus non, ultrices eu lorem. Sed leo nisl, eleifend sit amet nulla in, tristique consequat dui. Maecenas non risus nibh. Aliquam et lobortis dolor.”
-                </div>
-            </article>
-        </div>
-    </div>
-</section>
+@*                 <div class="text"> *@
+@*                     “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed varius nulla. Ut et maximus nunc. Vivamus ligula metus, dapibus sed faucibus non, ultrices eu lorem. Sed leo nisl, eleifend sit amet nulla in, tristique consequat dui. Maecenas non risus nibh. Aliquam et lobortis dolor.” *@
+@*                 </div> *@
+@*             </article> *@
+@*         </div> *@
+@*     </div> *@
+@* </section> *@
 
 
-<section class="blog-section padd-1">
-    <div class="container">
+@* <section class="blog-section padd-1"> *@
+@*     <div class="container"> *@
         @* <div class="sec-title center"> *@
         @*     <h2>Latest <span>news</span></h2> *@
         @* </div> *@
@@ -634,8 +644,8 @@
         @*         </div> *@
         @*     </div> *@
         @* </div> *@
-    </div>
-</section>
+@*     </div> *@
+@* </section> *@
 
 <!--Main Footer-->
 <footer class="main-footer">
@@ -699,9 +709,9 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="list">
-                                        <li><a href="about.html">Accueil</a></li>
+                                        <li><a asp-controller="Home" asp-action="Index">Accueil</a></li>
                                         <li><a href="contact.html">Hebergement</a></li>
-                                        <li><a href="team.html">Galerie</a></li>
+                                        <li><a asp-controller="Home" asp-action="Gallery">Galerie</a></li>
                                         <li><a href="service.html">Contact</a></li>
                                     </ul>
                                 </div>
@@ -709,31 +719,31 @@
                         </div>
 
                         <!--Footer Column-->
-                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
-                            <div class="footer-widget contact-widget">
-                                <div class="section-title">
-                                    <h3>Instagram</h3>
-                                </div>
-                                <div class="footer-widget gallery-widget">
+                        @* <div class="footer-column col-md-6 col-sm-6 col-xs-12"> *@
+                        @*     <div class="footer-widget contact-widget"> *@
+                        @*         <div class="section-title"> *@
+                        @*             <h3>Instagram</h3> *@
+                        @*         </div> *@
+                        @*         <div class="footer-widget gallery-widget"> *@
 
-                                    <figure class="image">
-                                        <img src="images/resource/i1.jpg" alt="">
-                                        <div class="link"><a href="#"><i class="fa fa-link" aria-hidden="true"></i></a></div>
-                                    </figure>
+                        @*             <figure class="image"> *@
+                        @*                 <img src="images/resource/i1.jpg" alt=""> *@
+                        @*                 <div class="link"><a href="#"><i class="fa fa-link" aria-hidden="true"></i></a></div> *@
+                        @*             </figure> *@
 
-                                    <figure class="image">
-                                        <img src="images/resource/i2.jpg" alt="">
-                                        <div class="link"><a href="#"><i class="fa fa-link" aria-hidden="true"></i></a></div>
-                                    </figure>
+                        @*             <figure class="image"> *@
+                        @*                 <img src="images/resource/i2.jpg" alt=""> *@
+                        @*                 <div class="link"><a href="#"><i class="fa fa-link" aria-hidden="true"></i></a></div> *@
+                        @*             </figure> *@
 
-                                    <figure class="image">
-                                        <img src="images/resource/i3.jpg" alt="">
-                                        <div class="link"><a href="#"><i class="fa fa-link" aria-hidden="true"></i></a></div>
-                                    </figure>
+                        @*             <figure class="image"> *@
+                        @*                 <img src="images/resource/i3.jpg" alt=""> *@
+                        @*                 <div class="link"><a href="#"><i class="fa fa-link" aria-hidden="true"></i></a></div> *@
+                        @*             </figure> *@
 
-                                </div>
-                            </div>
-                        </div>
+                        @*         </div> *@
+                        @*     </div> *@
+                        @* </div> *@
                     </div>
                 </div>
             </div>

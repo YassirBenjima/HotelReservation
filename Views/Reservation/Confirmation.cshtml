@@ -1,0 +1,173 @@
+﻿@model HotelReservation.ViewModels.ConfirmationViewModel
+@{
+    ViewData["Title"] = "Confirmation";
+}
+
+<div class="inner-banner has-base-color-overlay text-center" style="background: url('/images/background/5.jpg');">
+    <div class="container">
+        <div class="box">
+            <h3>Confirmation</h3>
+        </div>
+    </div>
+</div>
+
+<div class="breadcumb-wrapper">
+    <div class="container">
+        <div class="pull-left">
+            <ul class="list-inline link-list">
+                <li><a href="@Url.Action("Index", "Home")">Accueil</a></li>
+                <li><a href="#">Confirmation</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<section class="service-single padd-2">
+    <div class="container">
+        <!-- Image et Prix -->
+        <figure class="single-service-image position-relative">
+            <img src="@(Model.Room_Image != null ? "data:image/jpeg;base64," + Convert.ToBase64String(Model.Room_Image) : "/images/resource/Pool Villa (general View).jpg")"
+                 alt="@Model.RoomType" class="img-fluid rounded-top">
+            <div class="price position-absolute top-0 end-0 bg-primary text-white px-3 py-2 rounded-start">
+                <h2>Total<br><span>@Model.TotalAmount MAD</span></h2>
+            </div>
+        </figure>
+
+        <!-- Détails de la réservation -->
+        <div class="service-details">
+            <div class="inner-title text-center">
+                <h3>Confirmer votre réservation</h3>
+            </div>
+            <div class="row">
+                <!-- Informations principales -->
+                <div class="col-md-8">
+                    <div class="content-box p-3 bg-light rounded shadow-sm">
+                        <p><strong>Type de Chambre :</strong> @Model.RoomType</p>
+                        <p><strong>Client :</strong> @Model.ClientName</p>
+                        <p><strong>Date d'entrée :</strong> @Model.CheckIn.ToString("yyyy-MM-dd")</p>
+                        <p><strong>Date de sortie :</strong> @Model.CheckOut.ToString("yyyy-MM-dd")</p>
+                        <p><strong>Total :</strong> @Model.TotalAmount MAD</p>
+                    </div>
+                </div>
+            </div><br />
+
+            <!-- Bouton PayPal -->
+            <div class="text-center mt-4">
+                <div id="paypal-button-container" class="mb-3"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!--Main Footer-->
+<footer class="main-footer">
+    <!--Widgets Section-->
+    <div class="widgets-section">
+        <div class="container">
+            <div class="row">
+                <!--Big Column-->
+                <div class="big-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="row clearfix">
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget about-widget">
+                                <figure class="footer-logo"><a href="index.html"><img src="images/logo/logo2.png" alt=""></a></figure>
+                                <div class="widget-content">
+                                    <ul class="contact-info">
+                                        <li>23/223 Apple Street, New York</li>
+                                        <li>Phone: +123-456-7890</li>
+                                        <li>Mail@Nilacholteam.com</li>
+                                    </ul>
+                                    <ul class="social">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget service-widget">
+                                <div class="section-title">
+                                    <h3>Our Services</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="list">
+                                        <li><a href="service-single.html">Room Services</a></li>
+                                        <li><a href="service-single.html">Climatisation</a></li>
+                                        <li><a href="service-single.html">Parking</a></li>
+                                        <li><a href="service-single.html">Wifi haut débit</a></li>
+                                        <li><a href="service-single.html">Piscine extérieure</a></li>
+                                        <li><a href="service-single.html">Café restaurant</a></li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Big Column-->
+                <div class="big-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="row clearfix">
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget links-widget">
+                                <div class="section-title">
+                                    <h3>Quick Links</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="list">
+                                        <li><a href="about.html">Accueil</a></li>
+                                        <li><a href="contact.html">Hebergement</a></li>
+                                        <li><a href="team.html">Galerie</a></li>
+                                        <li><a href="service.html">Contact</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Footer Bottom-->
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="copy-text center">
+                <p>Copyrights © 2018 All Rights Reserved by <a href="index.html"> Yassir Benjima.</a></p>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Ajouter le script PayPal -->
+<script src="https://www.paypal.com/sdk/js?client-id=Ae8QDufEGQE1tAKCEl4uUWFnXYZXCmZnoLXxqgiyh-xYf0264v_luXiHJl75iz-QdJyxs_po8BXakp01&currency=USD"></script>
+<script>
+    paypal.Buttons({
+        createOrder: function(data, actions) {
+            return actions.order.create({
+                purchase_units: [{
+                    amount: {
+                        value: '@Model.TotalAmount'
+                    },
+                    description: 'Réservation Hôtel'
+                }]
+            });
+        },
+        onApprove: function(data, actions) {
+            return actions.order.capture().then(function(details) {
+                // Appeler votre action pour valider le paiement
+                window.location.href = '/Reservation/PaymentSuccess/' + '@Model.ReservationId';
+            });
+        },
+        onError: function(err) {
+            alert('Erreur lors du paiement. Veuillez réessayer.');
+        }
+    }).render('#paypal-button-container');
+</script>
+

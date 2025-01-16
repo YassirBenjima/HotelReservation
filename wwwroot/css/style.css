@@ -473,6 +473,26 @@ input,textarea {
   line-height: 38px;
   background: #77ba00;
 }
+.logout-btn {
+    color: #fff;
+    width: 36px;
+    height: 36px;
+    line-height: 38px;
+    background: #77ba00;
+    border: none; /* S'assurer qu'aucune bordure ne change */
+    text-decoration: none; /* Supprimer les soulignements */
+    display: inline-flex; /* Centrer le contenu */
+    align-items: center;
+    justify-content: center;
+}
+
+    .logout-btn:hover,
+    .logout-btn:focus {
+        color: #fff; /* Maintenir la même couleur de texte */
+        background: #77ba00; /* Maintenir le même arrière-plan */
+        text-decoration: none; /* Pas de soulignement */
+        outline: none; /* Pas de bordure visible au focus */
+    }
 .social-style-one li i{
   font-size: 16px;
   position:  relative;

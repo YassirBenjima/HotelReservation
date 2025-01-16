@@ -101,6 +101,7 @@ wwwroot\images\background\2.jpg
 wwwroot\images\background\4.jpg
 wwwroot\images\background\5.jpg
 wwwroot\images\background\6.jpg
+wwwroot\images\background\Pool Suite.JPG
 wwwroot\images\background\pool.jpg
 wwwroot\images\background\rb.jpg
 wwwroot\images\blog\1.jpg
@@ -155,6 +156,95 @@ wwwroot\images\gallery\6.jpg
 wwwroot\images\gallery\7.jpg
 wwwroot\images\gallery\8.jpg
 wwwroot\images\gallery\9.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (bathroom).jpg
+wwwroot\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain palace (detail).jpg
+wwwroot\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (General view).jpg
+wwwroot\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Mastersuite) 2.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Private terrasse).jpg
+wwwroot\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Salon).jpg
+wwwroot\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace Bedrrom 2.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain palace room 1.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Mountain Palace\Palace Pool.gif
+wwwroot\images\gallery\Hebergement\Palaces\Mountain Palace\Thumbs.db
+wwwroot\images\gallery\Hebergement\Palaces\Mountain Palace\vue piscine Mountain Palace.JPG
+wwwroot\images\gallery\Hebergement\Palaces\Pool Palace\024namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Pool Palace\234namaskar2© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace ( Master Suite Bedroom 1).jpg
+wwwroot\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Master suite Salon).jpg
+wwwroot\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Master Suite Terrace).jpg
+wwwroot\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Private Pool).jpg
+wwwroot\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace Bathroom.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace view.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Pool Palace\Thumbs.db
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\046namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\068namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\070namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\071namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\072namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\080namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\081namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\084namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Bedroom 2).jpg
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (General view).JPG
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Master Suite).jpg
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Private Balcony).jpg
+wwwroot\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Salon.jpg
+wwwroot\images\gallery\Hebergement\Rooms\Deluxe Room\053namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Rooms\Deluxe Room\DAK_6407.JPG
+wwwroot\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room (Bathroom).jpg
+wwwroot\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room (Terrace).jpg
+wwwroot\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room Terrace.jpg
+wwwroot\images\gallery\Hebergement\Rooms\Deluxe Room\Thumbs.db
+wwwroot\images\gallery\Hebergement\Rooms\Superior Room\033namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Rooms\Superior Room\050namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Rooms\Superior Room\Namaskar-2.jpg
+wwwroot\images\gallery\Hebergement\Rooms\Superior Room\Superior Room (Bedroom).jpg
+wwwroot\images\gallery\Hebergement\Rooms\Superior Room\Superior Room Terrace.jpg
+wwwroot\images\gallery\Hebergement\Rooms\Superior Room\Thumbs.db
+wwwroot\images\gallery\Hebergement\Suites\Junior Suite\_MG_8145D.jpg
+wwwroot\images\gallery\Hebergement\Suites\Junior Suite\042namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Suites\Junior Suite\ext junior suite.JPG
+wwwroot\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (2).jpg
+wwwroot\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Bathroom).jpg
+wwwroot\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Plunge Pool view).jpg
+wwwroot\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Plunge Pool).JPG
+wwwroot\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite Terace.jpg
+wwwroot\images\gallery\Hebergement\Suites\Junior Suite\Junuior Suite (Interior).jpg
+wwwroot\images\gallery\Hebergement\Suites\Junior Suite\Thumbs.db
+wwwroot\images\gallery\Hebergement\Suites\Lounge Suite\026namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Suites\Lounge Suite\034namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Suites\Lounge Suite\035namaskar1© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Suites\Lounge Suite\208namaskar2© ivan franchet.jpg
+wwwroot\images\gallery\Hebergement\Suites\Lounge Suite\Louge Suite (Bedroom).jpg
+wwwroot\images\gallery\Hebergement\Suites\Lounge Suite\Lounge Suite (Bathroom).jpg
+wwwroot\images\gallery\Hebergement\Suites\Lounge Suite\Thumbs.db
+wwwroot\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite  (Terrace & Pool).JPG
+wwwroot\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (1).jpg
+wwwroot\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (2).jpg
+wwwroot\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (Bathroom).jpg
+wwwroot\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (Livingroom).jpg
+wwwroot\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite Terrace.jpg
+wwwroot\images\gallery\Hebergement\Suites\Pool Suite\Thumbs.db
+wwwroot\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (2).JPG
+wwwroot\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (general View).jpg
+wwwroot\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (Romantic Bath).JPG
+wwwroot\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Bathroom.jpg
+wwwroot\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Bedroom.jpg
+wwwroot\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Livingroom.jpg
+wwwroot\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Terrace.jpg
+wwwroot\images\gallery\Hebergement\Villas\Pool Villa\Terrasse Pool Villa.JPG
+wwwroot\images\gallery\Hebergement\Villas\Pool Villa\Thumbs.db
+wwwroot\images\gallery\Hebergement\Villas\Villa Namaskar\DAK_5217.JPG
+wwwroot\images\gallery\Hebergement\Villas\Villa Namaskar\Thumbs.db
+wwwroot\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bathroom).jpg
+wwwroot\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bedroom 2).jpg
+wwwroot\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bedroom 3).jpg
+wwwroot\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Garden).jpg
+wwwroot\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (General View).jpg
+wwwroot\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Salon).jpg
+wwwroot\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Bathroom.jpg
+wwwroot\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Bedroom 1.jpg
+wwwroot\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Living Room.jpg
 wwwroot\images\icons\preloader.gif
 wwwroot\images\logo\logo.png
 wwwroot\images\logo\logo2.png

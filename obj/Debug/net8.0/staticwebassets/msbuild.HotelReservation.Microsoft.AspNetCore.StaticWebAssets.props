@@ -1236,8 +1236,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fc8k6mgqac</Fingerprint>
-      <Integrity>P8VvKcOmD85QjlIiQddSGQ7/wxEa2MzPMD2oKVoMLZM=</Integrity>
+      <Fingerprint>72b2x3gkpd</Fingerprint>
+      <Integrity>ga6VNA/X4RLlRVOTuXVMQrkkRyiVVls0O7Uffj1YnWc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</OriginalItemSpec>
@@ -1871,6 +1871,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\6.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\Pool Suite.JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/background/Pool Suite.JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>awwlppo7l1</Fingerprint>
+      <Integrity>NmkPC5KMG2fUU/V+4dgfHWTevsJvTSvJEojywijh+xI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\Pool Suite.JPG'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\pool.jpg'))">
       <SourceType>Package</SourceType>
@@ -2843,6 +2861,1608 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\9.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (bathroom).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (bathroom).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>t57x8mrftp</Fingerprint>
+      <Integrity>gTKckX38joAST3GDQ9CnLcO5kFYeRX69OHjG/GPkULo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (bathroom).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain palace (detail).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Mountain Palace/Mountain palace (detail).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dtw8zaprb0</Fingerprint>
+      <Integrity>IRPmA4mbTwg5IjJ4Fw74lV7/nHd6pFVLbjWnCKd+BWc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain palace (detail).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (General view).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (General view).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>erf4jrpnre</Fingerprint>
+      <Integrity>NkijCpPbgufC4Pg+MlkzdUbUeh78bZMSCtx9VlWoTsU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (General view).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Mastersuite) 2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (Mastersuite) 2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1kdpcp5fll</Fingerprint>
+      <Integrity>H0+2zXsfEm+QmwwoJSD8yyfiwK/6ECdZ2Z8TCVatbAo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Mastersuite) 2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Private terrasse).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (Private terrasse).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>c4wct1po6i</Fingerprint>
+      <Integrity>nJ7HP954oeBl6lm50nj7D+m7XBZyDBZajr/Lq3nNJdc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Private terrasse).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Salon).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (Salon).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9csxky489v</Fingerprint>
+      <Integrity>uaklGuqla8djFQLrW806GEXRv9G3XYlu8LFoH7Iwnsw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Salon).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace Bedrrom 2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace Bedrrom 2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>96p9oyv8m8</Fingerprint>
+      <Integrity>T0jt5/3sbqXifRhwzHGK+o+lZ/5WAkXOQyXCFCj0oMA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace Bedrrom 2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain palace room 1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Mountain Palace/Mountain palace room 1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jw363f1ld0</Fingerprint>
+      <Integrity>vdc35bXQwVC0IazC6NudBO6MxIdKL5jfIPU6ZNOn8qM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain palace room 1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Palace Pool.gif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Mountain Palace/Palace Pool.gif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>m76rasak4f</Fingerprint>
+      <Integrity>MjLRNjOLQ4V2+lGCaw3Q+K89qrAH+P0Pozmv/RxnclE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Palace Pool.gif'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Thumbs.db'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Mountain Palace/Thumbs.db</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wzg1svsgfb</Fingerprint>
+      <Integrity>tLvy9kJNoyzzHSMCAeEYOyvKaOO6B1MP0WbFHQ28Thw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Thumbs.db'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\vue piscine Mountain Palace.JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Mountain Palace/vue piscine Mountain Palace.JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nm5j7vgzyl</Fingerprint>
+      <Integrity>P6bU8OmgyrJFAK+q+Uyk6lwArJ2HlJwepuoz20JObq4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\vue piscine Mountain Palace.JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\024namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Pool Palace/024namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2b8xbay4m4</Fingerprint>
+      <Integrity>suS0NFxt6/HuSm2QwsSNmvPNYFStvw0XQFu3tyy+gok=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\024namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\234namaskar2© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Pool Palace/234namaskar2© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>b0ro93ym83</Fingerprint>
+      <Integrity>u9M1w5Y9zlghw8M2OoRHdsHpHo7D9+x7Qxnn49L87Ig=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\234namaskar2© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace ( Master Suite Bedroom 1).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace ( Master Suite Bedroom 1).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>bldepfb5e8</Fingerprint>
+      <Integrity>T4FVNbXp3PVezGxUz5p2IaP8OM9LR2manIt9cBDGhUQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace ( Master Suite Bedroom 1).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Master suite Salon).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace (Master suite Salon).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nzx69nm6ix</Fingerprint>
+      <Integrity>bcmY/ycCinSaRGv0MT8TelF0uG3Dv1crhI45MaDqt7c=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Master suite Salon).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Master Suite Terrace).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace (Master Suite Terrace).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7katuhatlv</Fingerprint>
+      <Integrity>t3x/je6V4L4X3XoG5S4/3nPFeI97KBNPIb4HBiL6Zh4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Master Suite Terrace).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Private Pool).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace (Private Pool).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>y8gspac1ir</Fingerprint>
+      <Integrity>QmJQGso/LREQOUTnz/43MY1jchqgV01Cvr4mICrsR2M=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Private Pool).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace Bathroom.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace Bathroom.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1sxebbwpv3</Fingerprint>
+      <Integrity>fyb1EQdrksmfxvgSNBsXfUyQLu842aK8NtTuuplJiNo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace Bathroom.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace view.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace view.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>uqgnllxydt</Fingerprint>
+      <Integrity>ehLvANC9/uayC0y4IsO8LJH29Cr3pwNiaYT+TAZ6n8s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace view.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Thumbs.db'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Pool Palace/Thumbs.db</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>22ahuv17oa</Fingerprint>
+      <Integrity>KteJbzVVBHQ9PFRCME5CUVAk7vNvLvnWFht/cWudQkw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Thumbs.db'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\046namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/046namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6rm780lsj5</Fingerprint>
+      <Integrity>DjlL7VpYkiDPoVuxjmntUIEDfN/9F0qRA+HN0Lo8aNM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\046namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\068namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/068namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zafr29p423</Fingerprint>
+      <Integrity>Oxwmv4i8fmtWK0zFJ6ZEq5PJY2u4G2jfXl8PAMSLy3c=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\068namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\070namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/070namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dqt3ppf958</Fingerprint>
+      <Integrity>RabE2x6ZriYhCuvBp+JOQyfwvN3bcdOIsM45Hmg/J38=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\070namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\071namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/071namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ho5lk08zzw</Fingerprint>
+      <Integrity>AeQdF9s63KthQp3/AyFxRW2svwko4nL2ZlwmEgCqStg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\071namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\072namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/072namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>uta91fvi03</Fingerprint>
+      <Integrity>7rPQ2NZQS/3UP53GRsBF13b13Dp9rUBfZ+uLI8VoSq4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\072namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\080namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/080namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>r20n3nt9z5</Fingerprint>
+      <Integrity>3fCR/YjoisCpxUZSFHSuy/sisfXyhCkv2gUGJS0OxzQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\080namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\081namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/081namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4fhunxf8ov</Fingerprint>
+      <Integrity>sD5KQ2J3Z+F/ONp66t3dREiepJRrcYCPbIq4mhHcBqk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\081namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\084namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/084namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kq1kvqt544</Fingerprint>
+      <Integrity>zHztxY3dUVJ9lOkE3x/RWpP9OYaRvC43OwnfgsGW+Sw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\084namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Bedroom 2).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Bedroom 2).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>l7ozd9s8w8</Fingerprint>
+      <Integrity>r+lhKBaMgwjKlgW0WxunRcdnsuSJ1raRiqUlczVhSWk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Bedroom 2).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (General view).JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/Water Palace (General view).JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8sraobe8eu</Fingerprint>
+      <Integrity>2FCRtQoFlla/XakUlb+3ma3+vFWFAOJHk8aL3tg1UYM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (General view).JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Master Suite).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Master Suite).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>t7h8cisg4i</Fingerprint>
+      <Integrity>Kd3+rnTQkDs/mk80m/C5DdTqFbhMKVMbEFUDrf/FYlY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Master Suite).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Private Balcony).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Private Balcony).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ya8fvis4gw</Fingerprint>
+      <Integrity>yp5zlRn/fvBaoAtBO1T4PndNQGh0KycvbyvPALkAPHk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Private Balcony).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Salon.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Salon.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>uerf8dgjkr</Fingerprint>
+      <Integrity>hlQC7GKejVwMmjekOoMVMACJ0iLa7QqSYFRm0zNhQKM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Salon.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\053namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Rooms/Deluxe Room/053namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9oyfx6k2ie</Fingerprint>
+      <Integrity>t0kz/G8QCiPXla3jUA7Urm3gpml857+E+qX5KZjf9bM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\053namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\DAK_6407.JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Rooms/Deluxe Room/DAK_6407.JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>d1rxoqsnga</Fingerprint>
+      <Integrity>37j2ekAxUhKJQLpPCRUEFjmQahIQByt1TBUM+Bd36q8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\DAK_6407.JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room (Bathroom).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Rooms/Deluxe Room/Deluxe Room (Bathroom).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lb2gk3xiz0</Fingerprint>
+      <Integrity>wX9wHZbLHrc7pFx8Ez44msGT+K9qBbzlHT/pCxAJFlU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room (Bathroom).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room (Terrace).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Rooms/Deluxe Room/Deluxe Room (Terrace).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pyvldy246s</Fingerprint>
+      <Integrity>EaqzWeeMB1wSklklE9Dmb/gBpFdeMx2DgzqsuP2Rvqs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room (Terrace).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room Terrace.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Rooms/Deluxe Room/Deluxe Room Terrace.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>b0srj726ob</Fingerprint>
+      <Integrity>i9XsB5xZIwx+r9lSnj3e3kv7MtxWdnWBSY1tXOlnSIg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room Terrace.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Thumbs.db'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Rooms/Deluxe Room/Thumbs.db</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2lqa7xn5fa</Fingerprint>
+      <Integrity>6h8thnKuj9Svv3foGtPjX7bp067btfrSK8OeQPQDM68=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Thumbs.db'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\033namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Rooms/Superior Room/033namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>o4z95z24hp</Fingerprint>
+      <Integrity>6DR46tRXcTftBfe10e5LEC9UsBs41/uwPzc/3SzoJTQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\033namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\050namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Rooms/Superior Room/050namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>y1un6c3jvp</Fingerprint>
+      <Integrity>5l0ZSBnXwAIODgKO/74ETJ8u4cOHHnjLpzN/YMWFL0Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\050namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Namaskar-2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Rooms/Superior Room/Namaskar-2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vo5mni05pp</Fingerprint>
+      <Integrity>TwWh1Of2tng6qI2f1a/TDxo4IpWq5BPvfHLF38vUGvQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Namaskar-2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Superior Room (Bedroom).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Rooms/Superior Room/Superior Room (Bedroom).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>orj7794pms</Fingerprint>
+      <Integrity>LPVQig4C3Jv8edhqN+9Uwnz/YiubeVj9SomLKUkFdM8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Superior Room (Bedroom).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Superior Room Terrace.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Rooms/Superior Room/Superior Room Terrace.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yre5ntdq62</Fingerprint>
+      <Integrity>DjXaQ2IfrQ0bwt9e7WIJx2bn2BlRsB3TUraWyldaqUE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Superior Room Terrace.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Thumbs.db'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Rooms/Superior Room/Thumbs.db</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>g1u8q2n9oi</Fingerprint>
+      <Integrity>FJxQKjSNfypALinVojHwIQGszNQaObCd5urRZ7sRkDI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Thumbs.db'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\042namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Junior Suite/042namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1cfu14022t</Fingerprint>
+      <Integrity>IVo820PjswwOwMRyESju3wTS7Nlw1tVB4K+Q0ziADhs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\042namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\ext junior suite.JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Junior Suite/ext junior suite.JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>s2zvs0egoy</Fingerprint>
+      <Integrity>VD8LfjV8To5qlBeqKgu8mtC1DdG45XSJ+Vdv5qSGJ+s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\ext junior suite.JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (2).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (2).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>758xm37p4h</Fingerprint>
+      <Integrity>heY+omzjlWjQ/+vuZbPRTJzKs8oTNIHzfop+0L0Kzws=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (2).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Bathroom).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (Bathroom).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zo0ns66ntj</Fingerprint>
+      <Integrity>Q/forT/cTVVBTkEHSE5Ax6+4DffS5ZVTzy6p50otxpQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Bathroom).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Plunge Pool view).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (Plunge Pool view).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>93bglh40eu</Fingerprint>
+      <Integrity>JfX8LS24EOJyy4CK702j1hdyTUnObS0k6j6IiUBbBCY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Plunge Pool view).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Plunge Pool).JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (Plunge Pool).JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zsc8zcq3tp</Fingerprint>
+      <Integrity>Lfo116Ej8/mSdCrw6t2+zpOgQAIw7/BqLo7tNKkPMkI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Plunge Pool).JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite Terace.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Junior Suite/Junior Suite Terace.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>p3sx621n8a</Fingerprint>
+      <Integrity>exViguDL5zeCV2D0YQwZ7Vx8iFQ1XPjoEH7+CPDOkhE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite Terace.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junuior Suite (Interior).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Junior Suite/Junuior Suite (Interior).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>seuq93ikvt</Fingerprint>
+      <Integrity>jC7HLGkrWoTjDdYXrnlmNoUxXLhg2pOnmMkq9G2daS0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junuior Suite (Interior).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Thumbs.db'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Junior Suite/Thumbs.db</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>x3mwtba9xk</Fingerprint>
+      <Integrity>E58k7HfGwNjg3sjilldWzBXQHQEiV8ld7KkcXNTX/MY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Thumbs.db'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\_MG_8145D.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Junior Suite/_MG_8145D.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>seuq93ikvt</Fingerprint>
+      <Integrity>jC7HLGkrWoTjDdYXrnlmNoUxXLhg2pOnmMkq9G2daS0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\_MG_8145D.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\026namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Lounge Suite/026namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6mbj2pt7yr</Fingerprint>
+      <Integrity>jpcxYbRV/wkZ3OQ23OecIBYx1kZO0tABQRbgo5xn2OA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\026namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\034namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Lounge Suite/034namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>93nuslutdq</Fingerprint>
+      <Integrity>ZQBJNfaZqGViS4OqSVaggARvDj93iupPbmw2g6Wrgp4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\034namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\035namaskar1© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Lounge Suite/035namaskar1© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1nj92x1fuu</Fingerprint>
+      <Integrity>rQG0ah9GSyUPj2fj7pQHxq2ypuRtKUSmjvb6uKcTg0M=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\035namaskar1© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\208namaskar2© ivan franchet.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Lounge Suite/208namaskar2© ivan franchet.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5q35k5rp5u</Fingerprint>
+      <Integrity>HVqx4wySXHFwdW1dh4eBTrm27UxPl1MJIJ/RdYbavIs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\208namaskar2© ivan franchet.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\Louge Suite (Bedroom).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Lounge Suite/Louge Suite (Bedroom).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ivnp9moiqy</Fingerprint>
+      <Integrity>4vng1WpiOzf3UfnSJLsCXEGfp1AUySPPoPjvBiSyHeE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\Louge Suite (Bedroom).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\Lounge Suite (Bathroom).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Lounge Suite/Lounge Suite (Bathroom).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>620g1w3to8</Fingerprint>
+      <Integrity>sgqUWH4gyZ2crI4gPqP1LZzLEdoMSsPqowjctdl16a4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\Lounge Suite (Bathroom).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\Thumbs.db'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Lounge Suite/Thumbs.db</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gnj3949o1w</Fingerprint>
+      <Integrity>xLDdvGzQQ3iZ2DIk6KioAe5duxM0vxddBygvCon1NRU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\Thumbs.db'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite  (Terrace &amp; Pool).JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Pool Suite/Pool Suite  (Terrace &amp; Pool).JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>awwlppo7l1</Fingerprint>
+      <Integrity>NmkPC5KMG2fUU/V+4dgfHWTevsJvTSvJEojywijh+xI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite  (Terrace &amp; Pool).JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (1).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (1).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3v3s6mq5li</Fingerprint>
+      <Integrity>cT/s+WQ3+gqSExAl4KhTDfeyNhU9RE5Fj9rDGc6H0Do=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (1).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (2).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (2).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>m1ryz70c37</Fingerprint>
+      <Integrity>lsPRUSBPGX/mX/3i/t1knFvSd+qGkhIjaaTLma0fkog=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (2).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (Bathroom).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (Bathroom).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rx8hnk4kyc</Fingerprint>
+      <Integrity>f85pyxzhvZoRzx2uY8cJ0UGl+QLXCG63cjIH5U5jmS4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (Bathroom).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (Livingroom).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (Livingroom).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cnxwgrjogs</Fingerprint>
+      <Integrity>WP7kp+I+ozslD+ISL/GD+FU7yXu9Ptut3tq1A1UzWJg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (Livingroom).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite Terrace.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Pool Suite/Pool Suite Terrace.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vy7wcs4qsf</Fingerprint>
+      <Integrity>VywL/LsTqlZgIQxBP8GpakI7LsFrdiwj5AGAhl+1nA4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite Terrace.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Thumbs.db'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Suites/Pool Suite/Thumbs.db</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>arwnewcbjr</Fingerprint>
+      <Integrity>aizjf0SLDRnlGj/Cw8FhIyd9honrLSkUltNeHfuaT/M=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Thumbs.db'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (2).JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Pool Villa/Pool Villa (2).JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>e1bxs8r3mp</Fingerprint>
+      <Integrity>IuLFC0ZNxt4s+gkOlCbjT2FAcyTlRepjHV+9y5yOQpk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (2).JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (general View).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Pool Villa/Pool Villa (general View).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jjll90gkc6</Fingerprint>
+      <Integrity>sfYHAxAzV5yOP/Mg+PmI1dkZj4J+WHHDoHZOGSu7HjE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (general View).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (Romantic Bath).JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Pool Villa/Pool Villa (Romantic Bath).JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ljuucatuq0</Fingerprint>
+      <Integrity>38VxnI+OdLqxpUtCj0F3IbbkdXSyciDS1SHXdNOAvVs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (Romantic Bath).JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Bathroom.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Bathroom.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cp582l7uu3</Fingerprint>
+      <Integrity>IIsoZGgDRMy7gqk2h+/RURRaphkZv+YGYP1BmFeoXAE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Bathroom.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Bedroom.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Bedroom.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ybx724cbdp</Fingerprint>
+      <Integrity>ggmKmMbvG+n7grRSpHRWuMpU83gXnl9WnP7IGTL3mVc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Bedroom.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Livingroom.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Livingroom.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mnejzby7s6</Fingerprint>
+      <Integrity>DkA0KM/Zh22AKgnPmS48l37wvN9c35/qTA+Pvw0RXws=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Livingroom.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Terrace.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Terrace.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0suhmcucnn</Fingerprint>
+      <Integrity>EBzy9HFCRDkSLtzzvgoRLsPWlIzIgdjlA1mNQ5MCbdE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Terrace.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Terrasse Pool Villa.JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Pool Villa/Terrasse Pool Villa.JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>r6v2th8mci</Fingerprint>
+      <Integrity>ndSr8srQvHDtjC/VkeFHVS12xgHlPFzRPaTDqZiVC4I=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Terrasse Pool Villa.JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Thumbs.db'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Pool Villa/Thumbs.db</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1h9b7ejden</Fingerprint>
+      <Integrity>SyzuN9y/0WTLmJ/DmspTEJZSV8VdFDj4KBldLGXUUi8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Thumbs.db'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\DAK_5217.JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Villa Namaskar/DAK_5217.JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5j59i7tr25</Fingerprint>
+      <Integrity>vx1GWgRiela8qheqrjrAgM7banHTN9XVs2K/CBxy8CQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\DAK_5217.JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Thumbs.db'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Villa Namaskar/Thumbs.db</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>r72fh4wss1</Fingerprint>
+      <Integrity>CQY2H0plIY2YmoziQ/OxJOslBgCKt+QE577JeVAAt48=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Thumbs.db'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bathroom).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Bathroom).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wm2decol5b</Fingerprint>
+      <Integrity>mIy1Pv71COlohTfYuFvDWNn/cnxJNdXjri9LUJaRADc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bathroom).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bedroom 2).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Bedroom 2).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rhn8bhp1am</Fingerprint>
+      <Integrity>ETiCEakEtNOKQiRsPyYSMB/xWhrNgEfe1FCOC1HObYo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bedroom 2).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bedroom 3).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Bedroom 3).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>577oykyatu</Fingerprint>
+      <Integrity>j/NO40Zq7wLQvd++vQr92Nmpbi/X69s8yM23uSnThAI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bedroom 3).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Garden).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Garden).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qpglwios9i</Fingerprint>
+      <Integrity>3m+MKZGQPx0NrprlZKaeRZejjQsONqzL3DrTT2ZKM3o=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Garden).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (General View).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (General View).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>v5yodj87j7</Fingerprint>
+      <Integrity>81tkJMZrgsRYGk+Qat2UWCba67oLsy/EHUvMAvfdRbI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (General View).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Salon).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Salon).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vy825nr0c5</Fingerprint>
+      <Integrity>5yodDyhLtlcgWKLyqcuB6VVctGqBl/zxdMbfVAvkESM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Salon).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Bathroom.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar Bathroom.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0pl882jx47</Fingerprint>
+      <Integrity>1N98f2PR9aMCCxIneFH45UT+skZAJ9YP7Z7Q6zWAvsc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Bathroom.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Bedroom 1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar Bedroom 1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>z8707csx19</Fingerprint>
+      <Integrity>szv01d/FhRBMRxNOU3EZHl3U5BKCS/jdw1SRAUot2Nw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Bedroom 1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Living Room.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HotelReservation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HotelReservation</BasePath>
+      <RelativePath>images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar Living Room.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>g0leg02jgg</Fingerprint>
+      <Integrity>4FEx0Qsmc8A/lBVQ37FohT5a1Pnk57l8LZjCosZwu2M=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Living Room.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\icons\preloader.gif'))">
       <SourceType>Package</SourceType>

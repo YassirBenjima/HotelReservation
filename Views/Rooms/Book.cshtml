@@ -1,0 +1,119 @@
+﻿
+@model HotelReservation.Models.Room
+@{
+    ViewData["Title"] = "Détails de la Chambre - " + Model.RoomType;
+}
+
+<div class="inner-banner has-base-color-overlay text-center" style="background: url('/images/background/5.jpg');">
+    <div class="container">
+        <div class="box">
+            <h3>Details de la Chambre</h3>
+        </div>
+    </div>
+</div>
+
+<div class="breadcumb-wrapper">
+    <div class="container">
+        <div class="pull-left">
+            <ul class="list-inline link-list">
+                <li><a href="@Url.Action("Index", "Home")">Accueil</a></li>
+                <li><a href="@Url.Action("Hebergement", "Home")">Chambres</a></li>
+                <li>@Model.RoomType</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<section class="service-single padd-2">
+    <div class="container">
+        <figure class="single-service-image">
+            <img src="@(Model.Room_Image != null ? "data:image/jpeg;base64," + Convert.ToBase64String(Model.Room_Image) : "/images/resource/Pool Villa (general View).jpg")" alt="@Model.RoomType">
+            <div class="price">
+                <h2>Par Nuit<br> <span>@Model.RoomPrice MAD</span></h2>
+            </div>
+        </figure>
+        <div class="service-details">
+            <div class="inner-title">
+                <h3>@Model.RoomType</h3>
+            </div>
+            <div class="row">
+                <div class="col-md-8 col-sm-8">
+                    <div class="content-box">
+                        <div class="text">
+                            <p><strong>Type de Chambre :</strong> @Model.RoomType</p>
+                            <p><strong>Statut :</strong> @Model.RoomStatus</p>
+                            <p><strong>Capacité :</strong> @Model.RoomCapacity personnes</p>
+                            <p><strong>Disponibilité :</strong> @Model.RoomFree</p>
+                            <p><strong>Téléphone :</strong> @Model.RoomPhone</p>
+                        </div>
+
+                        <div class="add_your_review">
+                            @if (User?.Identity != null && User.Identity.IsAuthenticated)
+                            {
+                                <form action="@Url.Action("Book", "Reservation")" method="post">
+                                    <input type="hidden" name="roomId" value="@Model.RoomNumber" />
+                                    <input type="hidden" name="roomType" value="@Model.RoomType" />
+                                    <div>
+                                        <label for="checkIn">Date d'entrée (Check-In)</label>
+                                        <input type="date" name="checkIn" required />
+                                    </div>
+                                    <div>
+                                        <label for="checkOut">Date de sortie (Check-Out)</label>
+                                        <input type="date" name="checkOut" required />
+                                    </div>
+                                    <button class="btn-style-two">Réserver</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("Login", "Account")" class="btn-style-two">Connectez-vous pour réserver</a>
+                            }
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-4">
+                    <div class="service-block-four">
+                        <div class="inner-box">
+                            <div class="icon">
+                                <span class="flaticon-umbrella"></span>
+                            </div>
+                            <h3>Environnement Naturel</h3>
+                            <div class="text">Profitez d'un cadre naturel et paisible.</div>
+                        </div>
+                    </div>
+
+                    <div class="service-block-four">
+                        <div class="inner-box">
+                            <div class="icon">
+                                <span class="flaticon-wifi"></span>
+                            </div>
+                            <h3>Wi-Fi Haut Débit</h3>
+                            <div class="text">Restez connecté avec notre Wi-Fi gratuit.</div>
+                        </div>
+                    </div>
+
+                    <div class="service-block-four">
+                        <div class="inner-box">
+                            <div class="icon">
+                                <span class="flaticon-pizza"></span>
+                            </div>
+                            <h3>Restaurant Savoureux</h3>
+                            <div class="text">Découvrez des plats délicieux au restaurant.</div>
+                        </div>
+                    </div>
+
+                    <div class="service-block-four">
+                        <div class="inner-box">
+                            <div class="icon">
+                                <span class="flaticon-garage"></span>
+                            </div>
+                            <h3>Parking Gratuit</h3>
+                            <div class="text">Bénéficiez d'un stationnement gratuit et sécurisé.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

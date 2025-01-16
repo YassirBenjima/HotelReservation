@@ -2,35 +2,35 @@ using HotelReservation.Data;
 using HotelReservation.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Register database context
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-builder.Services.AddIdentity<Client, IdentityRole>(options =>
-{
-    options.Password.RequireNonAlphanumeric = false;
-    options.Password.RequiredLength = 8;
-    options.Password.RequireUppercase = false;
-    options.Password.RequireLowercase = false;
-    options.User.RequireUniqueEmail = true;
-    options.SignIn.RequireConfirmedAccount = false;
-    options.SignIn.RequireConfirmedEmail = false;
-    options.SignIn.RequireConfirmedPhoneNumber = false;
-}).AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
-// Add services to the container.
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        options.LoginPath = "/Account/Login"; // Chemin de la page de connexion
+        options.LogoutPath = "/Account/Logout"; // Chemin de la déconnexion
+        options.AccessDeniedPath = "/Account/AccessDenied"; // Page en cas d'accès refusé
+    });
+
+
+// Add authorization services
+builder.Services.AddAuthorization();
+
+// Add controllers and views
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-
-
-// Configure the HTTP request pipeline.
+// Middleware pipeline
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -39,6 +39,10 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+// Authentication middleware
+app.UseAuthentication();  // Make sure authentication is added before authorization
+
+// Authorization middleware
 app.UseAuthorization();
 
 app.MapControllerRoute(

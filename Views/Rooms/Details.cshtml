@@ -1,0 +1,164 @@
+﻿@model List<HotelReservation.Models.Room>
+
+@{
+    ViewData["Title"] = "Chambres - @Model.FirstOrDefault()?.RoomType";
+}
+
+<div class="inner-banner has-base-color-overlay text-center" style="background: url(/images/background/5.jpg);">
+    <div class="container">
+        <div class="box">
+            <h3>Chambres d'hôtel - @Model.FirstOrDefault()?.RoomType</h3>
+        </div>
+    </div>
+</div>
+
+<div class="breadcumb-wrapper">
+    <div class="container">
+        <div class="pull-left">
+            <ul class="list-inline link-list">
+                <li>
+                    <a href="@Url.Action("Index", "Home")">Home</a>
+                </li>
+                <li>
+                    <a href="#">Chambres</a>
+                </li>
+                <li>
+                    @Model.FirstOrDefault()?.RoomType
+                </li>
+            </ul>
+        </div>
+        @* <div class="pull-right"> *@
+        @*     <a href="#" class="get-qoute"><i class="fa fa-share"></i> Share</a> *@
+        @* </div> *@
+    </div>
+</div>
+
+<section class="rooms-section padd-1 style-2">
+    <div class="container">
+        <div class="row">
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var room in Model)
+                {
+                    <!-- Room Box -->
+                    <div class="col-md-4 col-sm-6 room-box style-2">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <img src="@(room.Room_Image != null ? "data:image/jpeg;base64," + Convert.ToBase64String(room.Room_Image) : "/images/resource/Pool Villa (general View).jpg")" alt="@room.RoomType" />
+                            </div>
+                            <!-- Lower Content -->
+                            <div class="lower-content">
+                                <!-- Rating -->
+                                @* <div class="rating"> *@
+                                @*     @for (int i = 0; i < room.Rating; i++) *@
+                                @*     { *@
+                                @*         <span class="fa fa-star"></span> *@
+                                @*     } *@
+                                @*     @for (int i = room.Rating; i < 5; i++) *@
+                                @*     { *@
+                                @*         <span class="fa fa-star light"></span> *@
+                                @*     } *@
+                                @* </div> *@
+
+                                <h3>
+                                    <a href="@Url.Action("Details", "Rooms", new { id = room.RoomNumber })">@room.RoomType</a>
+                                </h3>
+                                <div class="price clearfix">
+                                    $@room.RoomPrice <a href="@Url.Action("Book", "Rooms", new { id = room.RoomNumber })">Réserver</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <p>Aucune chambre n'est disponible pour ce type.</p>
+            }
+        </div>
+    </div>
+</section>
+<footer class="main-footer">
+    <!--Widgets Section-->
+    <div class="widgets-section">
+        <div class="container">
+            <div class="row">
+                <!--Big Column-->
+                <div class="big-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="row clearfix">
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget about-widget">
+                                <figure class="footer-logo"><a href="index.html"><img src="images/logo/logo2.png" alt=""></a></figure>
+                                <div class="widget-content">
+                                    <ul class="contact-info">
+                                        <li>23/223 Apple Street, New York</li>
+                                        <li>Phone: +123-456-7890</li>
+                                        <li>Mail@Nilacholteam.com</li>
+                                    </ul>
+                                    <ul class="social">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget service-widget">
+                                <div class="section-title">
+                                    <h3>Our Services</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="list">
+                                        <li><a href="service-single.html">Room Services</a></li>
+                                        <li><a href="service-single.html">Climatisation</a></li>
+                                        <li><a href="service-single.html">Parking</a></li>
+                                        <li><a href="service-single.html">Wifi haut débit</a></li>
+                                        <li><a href="service-single.html">Piscine extérieure</a></li>
+                                        <li><a href="service-single.html">Café restaurant</a></li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Big Column-->
+                <div class="big-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="row clearfix">
+                        <!--Footer Column-->
+                        <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-widget links-widget">
+                                <div class="section-title">
+                                    <h3>Quick Links</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="list">
+                                        <li><a href="about.html">Accueil</a></li>
+                                        <li><a href="contact.html">Hebergement</a></li>
+                                        <li><a href="team.html">Galerie</a></li>
+                                        <li><a href="service.html">Contact</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Footer Bottom-->
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="copy-text center">
+                <p>Copyrights © 2018 All Rights Reserved by <a href="index.html"> Yassir Benjima.</a></p>
+            </div>
+        </div>
+    </div>
+</footer>

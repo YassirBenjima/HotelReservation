@@ -816,17 +816,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 02 Jan 2025 18:08:06 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/css/style.72b2x3gkpd.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"72b2x3gkpd"},{"Name":"integrity","Value":"sha256-ga6VNA/X4RLlRVOTuXVMQrkkRyiVVls0O7Uffj1YnWc="},{"Name":"label","Value":"_content/HotelReservation/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"83076"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ga6VNA/X4RLlRVOTuXVMQrkkRyiVVls0O7Uffj1YnWc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 18:25:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HotelReservation/css/style.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-P8VvKcOmD85QjlIiQddSGQ7/wxEa2MzPMD2oKVoMLZM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"82432"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022P8VvKcOmD85QjlIiQddSGQ7/wxEa2MzPMD2oKVoMLZM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 17:47:11 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/HotelReservation/css/style.fc8k6mgqac.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fc8k6mgqac"},{"Name":"integrity","Value":"sha256-P8VvKcOmD85QjlIiQddSGQ7/wxEa2MzPMD2oKVoMLZM="},{"Name":"label","Value":"_content/HotelReservation/css/style.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"82432"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022P8VvKcOmD85QjlIiQddSGQ7/wxEa2MzPMD2oKVoMLZM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 17:47:11 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ga6VNA/X4RLlRVOTuXVMQrkkRyiVVls0O7Uffj1YnWc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"83076"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ga6VNA/X4RLlRVOTuXVMQrkkRyiVVls0O7Uffj1YnWc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 18:25:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HotelReservation/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -1156,13 +1156,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HotelReservation.b1s2wg5orl.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b1s2wg5orl"},{"Name":"integrity","Value":"sha256-kVWPCDZ6Ywu4nZ3\u002Bano\u002BtPEzgAAwPRnl8QLbbyyYxq4="},{"Name":"label","Value":"_content/HotelReservation/HotelReservation.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kVWPCDZ6Ywu4nZ3\u002Bano\u002BtPEzgAAwPRnl8QLbbyyYxq4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 17:56:57 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kVWPCDZ6Ywu4nZ3\u002Bano\u002BtPEzgAAwPRnl8QLbbyyYxq4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 18:20:46 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HotelReservation/HotelReservation.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HotelReservation.b1s2wg5orl.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kVWPCDZ6Ywu4nZ3\u002Bano\u002BtPEzgAAwPRnl8QLbbyyYxq4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kVWPCDZ6Ywu4nZ3\u002Bano\u002BtPEzgAAwPRnl8QLbbyyYxq4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 17:56:57 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kVWPCDZ6Ywu4nZ3\u002Bano\u002BtPEzgAAwPRnl8QLbbyyYxq4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 18:20:46 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HotelReservation/images/app_logo.fr7fhjg1hl.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\app_logo.png'))</AssetFile>
@@ -1247,6 +1247,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qx76szcgu9"},{"Name":"integrity","Value":"sha256-rjVxMX1G06F7ZyDdOQ1eQeB9sVyQUWuVscSrh\u002Bg/3tw="},{"Name":"label","Value":"_content/HotelReservation/images/background/6.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"451950"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rjVxMX1G06F7ZyDdOQ1eQeB9sVyQUWuVscSrh\u002Bg/3tw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jul 2018 00:48:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/background/Pool Suite.awwlppo7l1.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\Pool Suite.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"awwlppo7l1"},{"Name":"integrity","Value":"sha256-NmkPC5KMG2fUU/V\u002B4dgfHWTevsJvTSvJEojywijh\u002BxI="},{"Name":"label","Value":"_content/HotelReservation/images/background/Pool Suite.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15944755"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NmkPC5KMG2fUU/V\u002B4dgfHWTevsJvTSvJEojywijh\u002BxI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/background/Pool Suite.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\Pool Suite.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NmkPC5KMG2fUU/V\u002B4dgfHWTevsJvTSvJEojywijh\u002BxI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15944755"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NmkPC5KMG2fUU/V\u002B4dgfHWTevsJvTSvJEojywijh\u002BxI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HotelReservation/images/background/pool.e1bxs8r3mp.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\pool.jpg'))</AssetFile>
@@ -1895,6 +1907,1074 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Yyvbxe0Ik5f21O6Ap2S2aHnW\u002BeQzQHY4OUFla4RJE/U="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"40742"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Yyvbxe0Ik5f21O6Ap2S2aHnW\u002BeQzQHY4OUFla4RJE/U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jul 2018 03:55:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (bathroom).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (bathroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gTKckX38joAST3GDQ9CnLcO5kFYeRX69OHjG/GPkULo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15127042"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gTKckX38joAST3GDQ9CnLcO5kFYeRX69OHjG/GPkULo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (bathroom).t57x8mrftp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (bathroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t57x8mrftp"},{"Name":"integrity","Value":"sha256-gTKckX38joAST3GDQ9CnLcO5kFYeRX69OHjG/GPkULo="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (bathroom).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15127042"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gTKckX38joAST3GDQ9CnLcO5kFYeRX69OHjG/GPkULo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain palace (detail).dtw8zaprb0.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain palace (detail).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dtw8zaprb0"},{"Name":"integrity","Value":"sha256-IRPmA4mbTwg5IjJ4Fw74lV7/nHd6pFVLbjWnCKd\u002BBWc="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain palace (detail).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15995408"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IRPmA4mbTwg5IjJ4Fw74lV7/nHd6pFVLbjWnCKd\u002BBWc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain palace (detail).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain palace (detail).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IRPmA4mbTwg5IjJ4Fw74lV7/nHd6pFVLbjWnCKd\u002BBWc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15995408"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IRPmA4mbTwg5IjJ4Fw74lV7/nHd6pFVLbjWnCKd\u002BBWc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (General view).erf4jrpnre.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (General view).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"erf4jrpnre"},{"Name":"integrity","Value":"sha256-NkijCpPbgufC4Pg\u002BMlkzdUbUeh78bZMSCtx9VlWoTsU="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (General view).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17554191"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NkijCpPbgufC4Pg\u002BMlkzdUbUeh78bZMSCtx9VlWoTsU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (General view).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (General view).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NkijCpPbgufC4Pg\u002BMlkzdUbUeh78bZMSCtx9VlWoTsU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17554191"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NkijCpPbgufC4Pg\u002BMlkzdUbUeh78bZMSCtx9VlWoTsU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (Mastersuite) 2.1kdpcp5fll.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Mastersuite) 2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1kdpcp5fll"},{"Name":"integrity","Value":"sha256-H0\u002B2zXsfEm\u002BQmwwoJSD8yyfiwK/6ECdZ2Z8TCVatbAo="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (Mastersuite) 2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10553335"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022H0\u002B2zXsfEm\u002BQmwwoJSD8yyfiwK/6ECdZ2Z8TCVatbAo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (Mastersuite) 2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Mastersuite) 2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-H0\u002B2zXsfEm\u002BQmwwoJSD8yyfiwK/6ECdZ2Z8TCVatbAo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10553335"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022H0\u002B2zXsfEm\u002BQmwwoJSD8yyfiwK/6ECdZ2Z8TCVatbAo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (Private terrasse).c4wct1po6i.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Private terrasse).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c4wct1po6i"},{"Name":"integrity","Value":"sha256-nJ7HP954oeBl6lm50nj7D\u002Bm7XBZyDBZajr/Lq3nNJdc="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (Private terrasse).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14794822"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nJ7HP954oeBl6lm50nj7D\u002Bm7XBZyDBZajr/Lq3nNJdc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (Private terrasse).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Private terrasse).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nJ7HP954oeBl6lm50nj7D\u002Bm7XBZyDBZajr/Lq3nNJdc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14794822"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nJ7HP954oeBl6lm50nj7D\u002Bm7XBZyDBZajr/Lq3nNJdc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (Salon).9csxky489v.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Salon).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9csxky489v"},{"Name":"integrity","Value":"sha256-uaklGuqla8djFQLrW806GEXRv9G3XYlu8LFoH7Iwnsw="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (Salon).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3485674"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uaklGuqla8djFQLrW806GEXRv9G3XYlu8LFoH7Iwnsw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace (Salon).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace (Salon).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uaklGuqla8djFQLrW806GEXRv9G3XYlu8LFoH7Iwnsw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3485674"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uaklGuqla8djFQLrW806GEXRv9G3XYlu8LFoH7Iwnsw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace Bedrrom 2.96p9oyv8m8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace Bedrrom 2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"96p9oyv8m8"},{"Name":"integrity","Value":"sha256-T0jt5/3sbqXifRhwzHGK\u002Bo\u002BlZ/5WAkXOQyXCFCj0oMA="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace Bedrrom 2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11110783"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022T0jt5/3sbqXifRhwzHGK\u002Bo\u002BlZ/5WAkXOQyXCFCj0oMA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain Palace Bedrrom 2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain Palace Bedrrom 2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-T0jt5/3sbqXifRhwzHGK\u002Bo\u002BlZ/5WAkXOQyXCFCj0oMA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11110783"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022T0jt5/3sbqXifRhwzHGK\u002Bo\u002BlZ/5WAkXOQyXCFCj0oMA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain palace room 1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain palace room 1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vdc35bXQwVC0IazC6NudBO6MxIdKL5jfIPU6ZNOn8qM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"386083"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vdc35bXQwVC0IazC6NudBO6MxIdKL5jfIPU6ZNOn8qM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain palace room 1.jw363f1ld0.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Mountain palace room 1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jw363f1ld0"},{"Name":"integrity","Value":"sha256-vdc35bXQwVC0IazC6NudBO6MxIdKL5jfIPU6ZNOn8qM="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Mountain palace room 1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"386083"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vdc35bXQwVC0IazC6NudBO6MxIdKL5jfIPU6ZNOn8qM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Palace Pool.gif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Palace Pool.gif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MjLRNjOLQ4V2\u002BlGCaw3Q\u002BK89qrAH\u002BP0Pozmv/RxnclE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9028326"},{"Name":"Content-Type","Value":"image/gif"},{"Name":"ETag","Value":"\u0022MjLRNjOLQ4V2\u002BlGCaw3Q\u002BK89qrAH\u002BP0Pozmv/RxnclE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Palace Pool.m76rasak4f.gif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Palace Pool.gif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m76rasak4f"},{"Name":"integrity","Value":"sha256-MjLRNjOLQ4V2\u002BlGCaw3Q\u002BK89qrAH\u002BP0Pozmv/RxnclE="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Palace Pool.gif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9028326"},{"Name":"Content-Type","Value":"image/gif"},{"Name":"ETag","Value":"\u0022MjLRNjOLQ4V2\u002BlGCaw3Q\u002BK89qrAH\u002BP0Pozmv/RxnclE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Thumbs.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tLvy9kJNoyzzHSMCAeEYOyvKaOO6B1MP0WbFHQ28Thw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1871360"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022tLvy9kJNoyzzHSMCAeEYOyvKaOO6B1MP0WbFHQ28Thw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Thumbs.wzg1svsgfb.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wzg1svsgfb"},{"Name":"integrity","Value":"sha256-tLvy9kJNoyzzHSMCAeEYOyvKaOO6B1MP0WbFHQ28Thw="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/Thumbs.db"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1871360"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022tLvy9kJNoyzzHSMCAeEYOyvKaOO6B1MP0WbFHQ28Thw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/vue piscine Mountain Palace.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\vue piscine Mountain Palace.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-P6bU8OmgyrJFAK\u002Bq\u002BUyk6lwArJ2HlJwepuoz20JObq4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10238166"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022P6bU8OmgyrJFAK\u002Bq\u002BUyk6lwArJ2HlJwepuoz20JObq4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/vue piscine Mountain Palace.nm5j7vgzyl.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Mountain Palace\vue piscine Mountain Palace.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nm5j7vgzyl"},{"Name":"integrity","Value":"sha256-P6bU8OmgyrJFAK\u002Bq\u002BUyk6lwArJ2HlJwepuoz20JObq4="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Mountain Palace/vue piscine Mountain Palace.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10238166"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022P6bU8OmgyrJFAK\u002Bq\u002BUyk6lwArJ2HlJwepuoz20JObq4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/024namaskar1© ivan franchet.2b8xbay4m4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\024namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2b8xbay4m4"},{"Name":"integrity","Value":"sha256-suS0NFxt6/HuSm2QwsSNmvPNYFStvw0XQFu3tyy\u002Bgok="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/024namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8790024"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022suS0NFxt6/HuSm2QwsSNmvPNYFStvw0XQFu3tyy\u002Bgok=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/024namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\024namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-suS0NFxt6/HuSm2QwsSNmvPNYFStvw0XQFu3tyy\u002Bgok="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8790024"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022suS0NFxt6/HuSm2QwsSNmvPNYFStvw0XQFu3tyy\u002Bgok=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/234namaskar2© ivan franchet.b0ro93ym83.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\234namaskar2© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b0ro93ym83"},{"Name":"integrity","Value":"sha256-u9M1w5Y9zlghw8M2OoRHdsHpHo7D9\u002Bx7Qxnn49L87Ig="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/234namaskar2\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9068333"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u9M1w5Y9zlghw8M2OoRHdsHpHo7D9\u002Bx7Qxnn49L87Ig=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/234namaskar2© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\234namaskar2© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u9M1w5Y9zlghw8M2OoRHdsHpHo7D9\u002Bx7Qxnn49L87Ig="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9068333"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u9M1w5Y9zlghw8M2OoRHdsHpHo7D9\u002Bx7Qxnn49L87Ig=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace ( Master Suite Bedroom 1).bldepfb5e8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace ( Master Suite Bedroom 1).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bldepfb5e8"},{"Name":"integrity","Value":"sha256-T4FVNbXp3PVezGxUz5p2IaP8OM9LR2manIt9cBDGhUQ="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace ( Master Suite Bedroom 1).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4569962"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022T4FVNbXp3PVezGxUz5p2IaP8OM9LR2manIt9cBDGhUQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace ( Master Suite Bedroom 1).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace ( Master Suite Bedroom 1).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-T4FVNbXp3PVezGxUz5p2IaP8OM9LR2manIt9cBDGhUQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4569962"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022T4FVNbXp3PVezGxUz5p2IaP8OM9LR2manIt9cBDGhUQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace (Master suite Salon).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Master suite Salon).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bcmY/ycCinSaRGv0MT8TelF0uG3Dv1crhI45MaDqt7c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15040543"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bcmY/ycCinSaRGv0MT8TelF0uG3Dv1crhI45MaDqt7c=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace (Master suite Salon).nzx69nm6ix.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Master suite Salon).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nzx69nm6ix"},{"Name":"integrity","Value":"sha256-bcmY/ycCinSaRGv0MT8TelF0uG3Dv1crhI45MaDqt7c="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace (Master suite Salon).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15040543"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bcmY/ycCinSaRGv0MT8TelF0uG3Dv1crhI45MaDqt7c=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace (Master Suite Terrace).7katuhatlv.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Master Suite Terrace).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7katuhatlv"},{"Name":"integrity","Value":"sha256-t3x/je6V4L4X3XoG5S4/3nPFeI97KBNPIb4HBiL6Zh4="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace (Master Suite Terrace).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4512627"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022t3x/je6V4L4X3XoG5S4/3nPFeI97KBNPIb4HBiL6Zh4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace (Master Suite Terrace).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Master Suite Terrace).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-t3x/je6V4L4X3XoG5S4/3nPFeI97KBNPIb4HBiL6Zh4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4512627"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022t3x/je6V4L4X3XoG5S4/3nPFeI97KBNPIb4HBiL6Zh4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace (Private Pool).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Private Pool).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QmJQGso/LREQOUTnz/43MY1jchqgV01Cvr4mICrsR2M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5892897"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QmJQGso/LREQOUTnz/43MY1jchqgV01Cvr4mICrsR2M=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace (Private Pool).y8gspac1ir.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace (Private Pool).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y8gspac1ir"},{"Name":"integrity","Value":"sha256-QmJQGso/LREQOUTnz/43MY1jchqgV01Cvr4mICrsR2M="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace (Private Pool).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5892897"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QmJQGso/LREQOUTnz/43MY1jchqgV01Cvr4mICrsR2M=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace Bathroom.1sxebbwpv3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace Bathroom.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1sxebbwpv3"},{"Name":"integrity","Value":"sha256-fyb1EQdrksmfxvgSNBsXfUyQLu842aK8NtTuuplJiNo="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace Bathroom.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18224201"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fyb1EQdrksmfxvgSNBsXfUyQLu842aK8NtTuuplJiNo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace Bathroom.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace Bathroom.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fyb1EQdrksmfxvgSNBsXfUyQLu842aK8NtTuuplJiNo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18224201"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fyb1EQdrksmfxvgSNBsXfUyQLu842aK8NtTuuplJiNo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace view.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace view.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ehLvANC9/uayC0y4IsO8LJH29Cr3pwNiaYT\u002BTAZ6n8s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2448307"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ehLvANC9/uayC0y4IsO8LJH29Cr3pwNiaYT\u002BTAZ6n8s=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace view.uqgnllxydt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Pool Palace view.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uqgnllxydt"},{"Name":"integrity","Value":"sha256-ehLvANC9/uayC0y4IsO8LJH29Cr3pwNiaYT\u002BTAZ6n8s="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Pool Palace view.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2448307"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ehLvANC9/uayC0y4IsO8LJH29Cr3pwNiaYT\u002BTAZ6n8s=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Thumbs.22ahuv17oa.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"22ahuv17oa"},{"Name":"integrity","Value":"sha256-KteJbzVVBHQ9PFRCME5CUVAk7vNvLvnWFht/cWudQkw="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Thumbs.db"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"147968"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022KteJbzVVBHQ9PFRCME5CUVAk7vNvLvnWFht/cWudQkw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Pool Palace/Thumbs.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Pool Palace\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KteJbzVVBHQ9PFRCME5CUVAk7vNvLvnWFht/cWudQkw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"147968"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022KteJbzVVBHQ9PFRCME5CUVAk7vNvLvnWFht/cWudQkw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/046namaskar1© ivan franchet.6rm780lsj5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\046namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6rm780lsj5"},{"Name":"integrity","Value":"sha256-DjlL7VpYkiDPoVuxjmntUIEDfN/9F0qRA\u002BHN0Lo8aNM="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/046namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7870306"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DjlL7VpYkiDPoVuxjmntUIEDfN/9F0qRA\u002BHN0Lo8aNM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/046namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\046namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DjlL7VpYkiDPoVuxjmntUIEDfN/9F0qRA\u002BHN0Lo8aNM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7870306"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DjlL7VpYkiDPoVuxjmntUIEDfN/9F0qRA\u002BHN0Lo8aNM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/068namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\068namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Oxwmv4i8fmtWK0zFJ6ZEq5PJY2u4G2jfXl8PAMSLy3c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7200971"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Oxwmv4i8fmtWK0zFJ6ZEq5PJY2u4G2jfXl8PAMSLy3c=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/068namaskar1© ivan franchet.zafr29p423.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\068namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zafr29p423"},{"Name":"integrity","Value":"sha256-Oxwmv4i8fmtWK0zFJ6ZEq5PJY2u4G2jfXl8PAMSLy3c="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/068namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7200971"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Oxwmv4i8fmtWK0zFJ6ZEq5PJY2u4G2jfXl8PAMSLy3c=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/070namaskar1© ivan franchet.dqt3ppf958.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\070namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dqt3ppf958"},{"Name":"integrity","Value":"sha256-RabE2x6ZriYhCuvBp\u002BJOQyfwvN3bcdOIsM45Hmg/J38="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/070namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7871267"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022RabE2x6ZriYhCuvBp\u002BJOQyfwvN3bcdOIsM45Hmg/J38=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/070namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\070namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RabE2x6ZriYhCuvBp\u002BJOQyfwvN3bcdOIsM45Hmg/J38="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7871267"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022RabE2x6ZriYhCuvBp\u002BJOQyfwvN3bcdOIsM45Hmg/J38=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/071namaskar1© ivan franchet.ho5lk08zzw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\071namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ho5lk08zzw"},{"Name":"integrity","Value":"sha256-AeQdF9s63KthQp3/AyFxRW2svwko4nL2ZlwmEgCqStg="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/071namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7384888"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022AeQdF9s63KthQp3/AyFxRW2svwko4nL2ZlwmEgCqStg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/071namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\071namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AeQdF9s63KthQp3/AyFxRW2svwko4nL2ZlwmEgCqStg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7384888"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022AeQdF9s63KthQp3/AyFxRW2svwko4nL2ZlwmEgCqStg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/072namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\072namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7rPQ2NZQS/3UP53GRsBF13b13Dp9rUBfZ\u002BuLI8VoSq4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8417475"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227rPQ2NZQS/3UP53GRsBF13b13Dp9rUBfZ\u002BuLI8VoSq4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/072namaskar1© ivan franchet.uta91fvi03.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\072namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uta91fvi03"},{"Name":"integrity","Value":"sha256-7rPQ2NZQS/3UP53GRsBF13b13Dp9rUBfZ\u002BuLI8VoSq4="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/072namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8417475"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227rPQ2NZQS/3UP53GRsBF13b13Dp9rUBfZ\u002BuLI8VoSq4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/080namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\080namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3fCR/YjoisCpxUZSFHSuy/sisfXyhCkv2gUGJS0OxzQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7103250"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223fCR/YjoisCpxUZSFHSuy/sisfXyhCkv2gUGJS0OxzQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/080namaskar1© ivan franchet.r20n3nt9z5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\080namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r20n3nt9z5"},{"Name":"integrity","Value":"sha256-3fCR/YjoisCpxUZSFHSuy/sisfXyhCkv2gUGJS0OxzQ="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/080namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7103250"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223fCR/YjoisCpxUZSFHSuy/sisfXyhCkv2gUGJS0OxzQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/081namaskar1© ivan franchet.4fhunxf8ov.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\081namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4fhunxf8ov"},{"Name":"integrity","Value":"sha256-sD5KQ2J3Z\u002BF/ONp66t3dREiepJRrcYCPbIq4mhHcBqk="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/081namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7982174"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sD5KQ2J3Z\u002BF/ONp66t3dREiepJRrcYCPbIq4mhHcBqk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/081namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\081namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sD5KQ2J3Z\u002BF/ONp66t3dREiepJRrcYCPbIq4mhHcBqk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7982174"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sD5KQ2J3Z\u002BF/ONp66t3dREiepJRrcYCPbIq4mhHcBqk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/084namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\084namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zHztxY3dUVJ9lOkE3x/RWpP9OYaRvC43OwnfgsGW\u002BSw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8118559"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zHztxY3dUVJ9lOkE3x/RWpP9OYaRvC43OwnfgsGW\u002BSw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/084namaskar1© ivan franchet.kq1kvqt544.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\084namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kq1kvqt544"},{"Name":"integrity","Value":"sha256-zHztxY3dUVJ9lOkE3x/RWpP9OYaRvC43OwnfgsGW\u002BSw="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/084namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8118559"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zHztxY3dUVJ9lOkE3x/RWpP9OYaRvC43OwnfgsGW\u002BSw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Bedroom 2).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Bedroom 2).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r\u002BlhKBaMgwjKlgW0WxunRcdnsuSJ1raRiqUlczVhSWk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12821246"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022r\u002BlhKBaMgwjKlgW0WxunRcdnsuSJ1raRiqUlczVhSWk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Bedroom 2).l7ozd9s8w8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Bedroom 2).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l7ozd9s8w8"},{"Name":"integrity","Value":"sha256-r\u002BlhKBaMgwjKlgW0WxunRcdnsuSJ1raRiqUlczVhSWk="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Bedroom 2).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12821246"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022r\u002BlhKBaMgwjKlgW0WxunRcdnsuSJ1raRiqUlczVhSWk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (General view).8sraobe8eu.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (General view).JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8sraobe8eu"},{"Name":"integrity","Value":"sha256-2FCRtQoFlla/XakUlb\u002B3ma3\u002BvFWFAOJHk8aL3tg1UYM="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (General view).JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4152632"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222FCRtQoFlla/XakUlb\u002B3ma3\u002BvFWFAOJHk8aL3tg1UYM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (General view).JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (General view).JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2FCRtQoFlla/XakUlb\u002B3ma3\u002BvFWFAOJHk8aL3tg1UYM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4152632"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222FCRtQoFlla/XakUlb\u002B3ma3\u002BvFWFAOJHk8aL3tg1UYM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Master Suite).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Master Suite).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Kd3\u002BrnTQkDs/mk80m/C5DdTqFbhMKVMbEFUDrf/FYlY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14150008"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Kd3\u002BrnTQkDs/mk80m/C5DdTqFbhMKVMbEFUDrf/FYlY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Master Suite).t7h8cisg4i.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Master Suite).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t7h8cisg4i"},{"Name":"integrity","Value":"sha256-Kd3\u002BrnTQkDs/mk80m/C5DdTqFbhMKVMbEFUDrf/FYlY="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Master Suite).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14150008"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Kd3\u002BrnTQkDs/mk80m/C5DdTqFbhMKVMbEFUDrf/FYlY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Private Balcony).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Private Balcony).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yp5zlRn/fvBaoAtBO1T4PndNQGh0KycvbyvPALkAPHk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"448334"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022yp5zlRn/fvBaoAtBO1T4PndNQGh0KycvbyvPALkAPHk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Private Balcony).ya8fvis4gw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Private Balcony).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ya8fvis4gw"},{"Name":"integrity","Value":"sha256-yp5zlRn/fvBaoAtBO1T4PndNQGh0KycvbyvPALkAPHk="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Private Balcony).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"448334"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022yp5zlRn/fvBaoAtBO1T4PndNQGh0KycvbyvPALkAPHk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Salon.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Salon.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hlQC7GKejVwMmjekOoMVMACJ0iLa7QqSYFRm0zNhQKM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14625355"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022hlQC7GKejVwMmjekOoMVMACJ0iLa7QqSYFRm0zNhQKM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Salon.uerf8dgjkr.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Palaces\Water Palace\Water Palace (Salon.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uerf8dgjkr"},{"Name":"integrity","Value":"sha256-hlQC7GKejVwMmjekOoMVMACJ0iLa7QqSYFRm0zNhQKM="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Palaces/Water Palace/Water Palace (Salon.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14625355"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022hlQC7GKejVwMmjekOoMVMACJ0iLa7QqSYFRm0zNhQKM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/053namaskar1© ivan franchet.9oyfx6k2ie.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\053namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9oyfx6k2ie"},{"Name":"integrity","Value":"sha256-t0kz/G8QCiPXla3jUA7Urm3gpml857\u002BE\u002BqX5KZjf9bM="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/053namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6676655"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022t0kz/G8QCiPXla3jUA7Urm3gpml857\u002BE\u002BqX5KZjf9bM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/053namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\053namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-t0kz/G8QCiPXla3jUA7Urm3gpml857\u002BE\u002BqX5KZjf9bM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6676655"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022t0kz/G8QCiPXla3jUA7Urm3gpml857\u002BE\u002BqX5KZjf9bM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/DAK_6407.d1rxoqsnga.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\DAK_6407.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d1rxoqsnga"},{"Name":"integrity","Value":"sha256-37j2ekAxUhKJQLpPCRUEFjmQahIQByt1TBUM\u002BBd36q8="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/DAK_6407.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7994398"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002237j2ekAxUhKJQLpPCRUEFjmQahIQByt1TBUM\u002BBd36q8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/DAK_6407.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\DAK_6407.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-37j2ekAxUhKJQLpPCRUEFjmQahIQByt1TBUM\u002BBd36q8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7994398"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002237j2ekAxUhKJQLpPCRUEFjmQahIQByt1TBUM\u002BBd36q8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/Deluxe Room (Bathroom).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room (Bathroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wX9wHZbLHrc7pFx8Ez44msGT\u002BK9qBbzlHT/pCxAJFlU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10668078"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wX9wHZbLHrc7pFx8Ez44msGT\u002BK9qBbzlHT/pCxAJFlU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/Deluxe Room (Bathroom).lb2gk3xiz0.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room (Bathroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lb2gk3xiz0"},{"Name":"integrity","Value":"sha256-wX9wHZbLHrc7pFx8Ez44msGT\u002BK9qBbzlHT/pCxAJFlU="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/Deluxe Room (Bathroom).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10668078"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wX9wHZbLHrc7pFx8Ez44msGT\u002BK9qBbzlHT/pCxAJFlU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/Deluxe Room (Terrace).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room (Terrace).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EaqzWeeMB1wSklklE9Dmb/gBpFdeMx2DgzqsuP2Rvqs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"360314"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022EaqzWeeMB1wSklklE9Dmb/gBpFdeMx2DgzqsuP2Rvqs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/Deluxe Room (Terrace).pyvldy246s.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room (Terrace).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pyvldy246s"},{"Name":"integrity","Value":"sha256-EaqzWeeMB1wSklklE9Dmb/gBpFdeMx2DgzqsuP2Rvqs="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/Deluxe Room (Terrace).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"360314"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022EaqzWeeMB1wSklklE9Dmb/gBpFdeMx2DgzqsuP2Rvqs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/Deluxe Room Terrace.b0srj726ob.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room Terrace.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b0srj726ob"},{"Name":"integrity","Value":"sha256-i9XsB5xZIwx\u002Br9lSnj3e3kv7MtxWdnWBSY1tXOlnSIg="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/Deluxe Room Terrace.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5310935"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022i9XsB5xZIwx\u002Br9lSnj3e3kv7MtxWdnWBSY1tXOlnSIg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/Deluxe Room Terrace.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Deluxe Room Terrace.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-i9XsB5xZIwx\u002Br9lSnj3e3kv7MtxWdnWBSY1tXOlnSIg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5310935"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022i9XsB5xZIwx\u002Br9lSnj3e3kv7MtxWdnWBSY1tXOlnSIg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/Thumbs.2lqa7xn5fa.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2lqa7xn5fa"},{"Name":"integrity","Value":"sha256-6h8thnKuj9Svv3foGtPjX7bp067btfrSK8OeQPQDM68="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/Thumbs.db"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101376"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00226h8thnKuj9Svv3foGtPjX7bp067btfrSK8OeQPQDM68=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Deluxe Room/Thumbs.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Deluxe Room\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6h8thnKuj9Svv3foGtPjX7bp067btfrSK8OeQPQDM68="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"101376"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00226h8thnKuj9Svv3foGtPjX7bp067btfrSK8OeQPQDM68=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/033namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\033namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6DR46tRXcTftBfe10e5LEC9UsBs41/uwPzc/3SzoJTQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6419346"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226DR46tRXcTftBfe10e5LEC9UsBs41/uwPzc/3SzoJTQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/033namaskar1© ivan franchet.o4z95z24hp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\033namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o4z95z24hp"},{"Name":"integrity","Value":"sha256-6DR46tRXcTftBfe10e5LEC9UsBs41/uwPzc/3SzoJTQ="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/033namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6419346"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226DR46tRXcTftBfe10e5LEC9UsBs41/uwPzc/3SzoJTQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/050namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\050namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5l0ZSBnXwAIODgKO/74ETJ8u4cOHHnjLpzN/YMWFL0Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9099769"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225l0ZSBnXwAIODgKO/74ETJ8u4cOHHnjLpzN/YMWFL0Y=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/050namaskar1© ivan franchet.y1un6c3jvp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\050namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y1un6c3jvp"},{"Name":"integrity","Value":"sha256-5l0ZSBnXwAIODgKO/74ETJ8u4cOHHnjLpzN/YMWFL0Y="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/050namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9099769"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225l0ZSBnXwAIODgKO/74ETJ8u4cOHHnjLpzN/YMWFL0Y=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/Namaskar-2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Namaskar-2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TwWh1Of2tng6qI2f1a/TDxo4IpWq5BPvfHLF38vUGvQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32413873"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TwWh1Of2tng6qI2f1a/TDxo4IpWq5BPvfHLF38vUGvQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/Namaskar-2.vo5mni05pp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Namaskar-2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vo5mni05pp"},{"Name":"integrity","Value":"sha256-TwWh1Of2tng6qI2f1a/TDxo4IpWq5BPvfHLF38vUGvQ="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/Namaskar-2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32413873"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TwWh1Of2tng6qI2f1a/TDxo4IpWq5BPvfHLF38vUGvQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/Superior Room (Bedroom).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Superior Room (Bedroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LPVQig4C3Jv8edhqN\u002B9Uwnz/YiubeVj9SomLKUkFdM8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15207354"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LPVQig4C3Jv8edhqN\u002B9Uwnz/YiubeVj9SomLKUkFdM8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/Superior Room (Bedroom).orj7794pms.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Superior Room (Bedroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"orj7794pms"},{"Name":"integrity","Value":"sha256-LPVQig4C3Jv8edhqN\u002B9Uwnz/YiubeVj9SomLKUkFdM8="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/Superior Room (Bedroom).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15207354"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LPVQig4C3Jv8edhqN\u002B9Uwnz/YiubeVj9SomLKUkFdM8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/Superior Room Terrace.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Superior Room Terrace.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DjXaQ2IfrQ0bwt9e7WIJx2bn2BlRsB3TUraWyldaqUE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13994201"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DjXaQ2IfrQ0bwt9e7WIJx2bn2BlRsB3TUraWyldaqUE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/Superior Room Terrace.yre5ntdq62.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Superior Room Terrace.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yre5ntdq62"},{"Name":"integrity","Value":"sha256-DjXaQ2IfrQ0bwt9e7WIJx2bn2BlRsB3TUraWyldaqUE="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/Superior Room Terrace.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13994201"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DjXaQ2IfrQ0bwt9e7WIJx2bn2BlRsB3TUraWyldaqUE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/Thumbs.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FJxQKjSNfypALinVojHwIQGszNQaObCd5urRZ7sRkDI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"53248"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022FJxQKjSNfypALinVojHwIQGszNQaObCd5urRZ7sRkDI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/Thumbs.g1u8q2n9oi.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Rooms\Superior Room\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g1u8q2n9oi"},{"Name":"integrity","Value":"sha256-FJxQKjSNfypALinVojHwIQGszNQaObCd5urRZ7sRkDI="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Rooms/Superior Room/Thumbs.db"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"53248"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022FJxQKjSNfypALinVojHwIQGszNQaObCd5urRZ7sRkDI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/042namaskar1© ivan franchet.1cfu14022t.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\042namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1cfu14022t"},{"Name":"integrity","Value":"sha256-IVo820PjswwOwMRyESju3wTS7Nlw1tVB4K\u002BQ0ziADhs="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/042namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8426015"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IVo820PjswwOwMRyESju3wTS7Nlw1tVB4K\u002BQ0ziADhs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/042namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\042namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IVo820PjswwOwMRyESju3wTS7Nlw1tVB4K\u002BQ0ziADhs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8426015"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IVo820PjswwOwMRyESju3wTS7Nlw1tVB4K\u002BQ0ziADhs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/ext junior suite.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\ext junior suite.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VD8LfjV8To5qlBeqKgu8mtC1DdG45XSJ\u002BVdv5qSGJ\u002Bs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9274762"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022VD8LfjV8To5qlBeqKgu8mtC1DdG45XSJ\u002BVdv5qSGJ\u002Bs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/ext junior suite.s2zvs0egoy.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\ext junior suite.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s2zvs0egoy"},{"Name":"integrity","Value":"sha256-VD8LfjV8To5qlBeqKgu8mtC1DdG45XSJ\u002BVdv5qSGJ\u002Bs="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/ext junior suite.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9274762"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022VD8LfjV8To5qlBeqKgu8mtC1DdG45XSJ\u002BVdv5qSGJ\u002Bs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (2).758xm37p4h.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (2).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"758xm37p4h"},{"Name":"integrity","Value":"sha256-heY\u002BomzjlWjQ/\u002BvuZbPRTJzKs8oTNIHzfop\u002B0L0Kzws="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (2).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14069803"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022heY\u002BomzjlWjQ/\u002BvuZbPRTJzKs8oTNIHzfop\u002B0L0Kzws=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (2).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (2).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-heY\u002BomzjlWjQ/\u002BvuZbPRTJzKs8oTNIHzfop\u002B0L0Kzws="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14069803"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022heY\u002BomzjlWjQ/\u002BvuZbPRTJzKs8oTNIHzfop\u002B0L0Kzws=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (Bathroom).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Bathroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Q/forT/cTVVBTkEHSE5Ax6\u002B4DffS5ZVTzy6p50otxpQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14076987"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Q/forT/cTVVBTkEHSE5Ax6\u002B4DffS5ZVTzy6p50otxpQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (Bathroom).zo0ns66ntj.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Bathroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zo0ns66ntj"},{"Name":"integrity","Value":"sha256-Q/forT/cTVVBTkEHSE5Ax6\u002B4DffS5ZVTzy6p50otxpQ="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (Bathroom).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14076987"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Q/forT/cTVVBTkEHSE5Ax6\u002B4DffS5ZVTzy6p50otxpQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (Plunge Pool view).93bglh40eu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Plunge Pool view).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"93bglh40eu"},{"Name":"integrity","Value":"sha256-JfX8LS24EOJyy4CK702j1hdyTUnObS0k6j6IiUBbBCY="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (Plunge Pool view).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14082003"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JfX8LS24EOJyy4CK702j1hdyTUnObS0k6j6IiUBbBCY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (Plunge Pool view).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Plunge Pool view).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JfX8LS24EOJyy4CK702j1hdyTUnObS0k6j6IiUBbBCY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14082003"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JfX8LS24EOJyy4CK702j1hdyTUnObS0k6j6IiUBbBCY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (Plunge Pool).JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Plunge Pool).JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Lfo116Ej8/mSdCrw6t2\u002BzpOgQAIw7/BqLo7tNKkPMkI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9187841"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Lfo116Ej8/mSdCrw6t2\u002BzpOgQAIw7/BqLo7tNKkPMkI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (Plunge Pool).zsc8zcq3tp.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite (Plunge Pool).JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zsc8zcq3tp"},{"Name":"integrity","Value":"sha256-Lfo116Ej8/mSdCrw6t2\u002BzpOgQAIw7/BqLo7tNKkPMkI="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite (Plunge Pool).JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9187841"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Lfo116Ej8/mSdCrw6t2\u002BzpOgQAIw7/BqLo7tNKkPMkI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite Terace.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite Terace.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-exViguDL5zeCV2D0YQwZ7Vx8iFQ1XPjoEH7\u002BCPDOkhE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15977103"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022exViguDL5zeCV2D0YQwZ7Vx8iFQ1XPjoEH7\u002BCPDOkhE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite Terace.p3sx621n8a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junior Suite Terace.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p3sx621n8a"},{"Name":"integrity","Value":"sha256-exViguDL5zeCV2D0YQwZ7Vx8iFQ1XPjoEH7\u002BCPDOkhE="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junior Suite Terace.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15977103"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022exViguDL5zeCV2D0YQwZ7Vx8iFQ1XPjoEH7\u002BCPDOkhE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junuior Suite (Interior).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junuior Suite (Interior).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jC7HLGkrWoTjDdYXrnlmNoUxXLhg2pOnmMkq9G2daS0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10637744"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jC7HLGkrWoTjDdYXrnlmNoUxXLhg2pOnmMkq9G2daS0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junuior Suite (Interior).seuq93ikvt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Junuior Suite (Interior).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"seuq93ikvt"},{"Name":"integrity","Value":"sha256-jC7HLGkrWoTjDdYXrnlmNoUxXLhg2pOnmMkq9G2daS0="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Junuior Suite (Interior).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10637744"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jC7HLGkrWoTjDdYXrnlmNoUxXLhg2pOnmMkq9G2daS0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Thumbs.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E58k7HfGwNjg3sjilldWzBXQHQEiV8ld7KkcXNTX/MY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"333312"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022E58k7HfGwNjg3sjilldWzBXQHQEiV8ld7KkcXNTX/MY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Thumbs.x3mwtba9xk.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x3mwtba9xk"},{"Name":"integrity","Value":"sha256-E58k7HfGwNjg3sjilldWzBXQHQEiV8ld7KkcXNTX/MY="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/Thumbs.db"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"333312"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022E58k7HfGwNjg3sjilldWzBXQHQEiV8ld7KkcXNTX/MY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/_MG_8145D.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\_MG_8145D.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jC7HLGkrWoTjDdYXrnlmNoUxXLhg2pOnmMkq9G2daS0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10637744"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jC7HLGkrWoTjDdYXrnlmNoUxXLhg2pOnmMkq9G2daS0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/_MG_8145D.seuq93ikvt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Junior Suite\_MG_8145D.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"seuq93ikvt"},{"Name":"integrity","Value":"sha256-jC7HLGkrWoTjDdYXrnlmNoUxXLhg2pOnmMkq9G2daS0="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Junior Suite/_MG_8145D.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10637744"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jC7HLGkrWoTjDdYXrnlmNoUxXLhg2pOnmMkq9G2daS0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/026namaskar1© ivan franchet.6mbj2pt7yr.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\026namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6mbj2pt7yr"},{"Name":"integrity","Value":"sha256-jpcxYbRV/wkZ3OQ23OecIBYx1kZO0tABQRbgo5xn2OA="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/026namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7327713"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jpcxYbRV/wkZ3OQ23OecIBYx1kZO0tABQRbgo5xn2OA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/026namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\026namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jpcxYbRV/wkZ3OQ23OecIBYx1kZO0tABQRbgo5xn2OA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7327713"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jpcxYbRV/wkZ3OQ23OecIBYx1kZO0tABQRbgo5xn2OA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/034namaskar1© ivan franchet.93nuslutdq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\034namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"93nuslutdq"},{"Name":"integrity","Value":"sha256-ZQBJNfaZqGViS4OqSVaggARvDj93iupPbmw2g6Wrgp4="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/034namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7347948"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZQBJNfaZqGViS4OqSVaggARvDj93iupPbmw2g6Wrgp4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/034namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\034namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZQBJNfaZqGViS4OqSVaggARvDj93iupPbmw2g6Wrgp4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7347948"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZQBJNfaZqGViS4OqSVaggARvDj93iupPbmw2g6Wrgp4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/035namaskar1© ivan franchet.1nj92x1fuu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\035namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1nj92x1fuu"},{"Name":"integrity","Value":"sha256-rQG0ah9GSyUPj2fj7pQHxq2ypuRtKUSmjvb6uKcTg0M="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/035namaskar1\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7055346"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rQG0ah9GSyUPj2fj7pQHxq2ypuRtKUSmjvb6uKcTg0M=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/035namaskar1© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\035namaskar1© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rQG0ah9GSyUPj2fj7pQHxq2ypuRtKUSmjvb6uKcTg0M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7055346"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rQG0ah9GSyUPj2fj7pQHxq2ypuRtKUSmjvb6uKcTg0M=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/208namaskar2© ivan franchet.5q35k5rp5u.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\208namaskar2© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5q35k5rp5u"},{"Name":"integrity","Value":"sha256-HVqx4wySXHFwdW1dh4eBTrm27UxPl1MJIJ/RdYbavIs="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/208namaskar2\u00A9 ivan franchet.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8434370"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HVqx4wySXHFwdW1dh4eBTrm27UxPl1MJIJ/RdYbavIs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/208namaskar2© ivan franchet.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\208namaskar2© ivan franchet.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HVqx4wySXHFwdW1dh4eBTrm27UxPl1MJIJ/RdYbavIs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8434370"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HVqx4wySXHFwdW1dh4eBTrm27UxPl1MJIJ/RdYbavIs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/Louge Suite (Bedroom).ivnp9moiqy.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\Louge Suite (Bedroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ivnp9moiqy"},{"Name":"integrity","Value":"sha256-4vng1WpiOzf3UfnSJLsCXEGfp1AUySPPoPjvBiSyHeE="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/Louge Suite (Bedroom).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14631010"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224vng1WpiOzf3UfnSJLsCXEGfp1AUySPPoPjvBiSyHeE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/Louge Suite (Bedroom).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\Louge Suite (Bedroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4vng1WpiOzf3UfnSJLsCXEGfp1AUySPPoPjvBiSyHeE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14631010"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224vng1WpiOzf3UfnSJLsCXEGfp1AUySPPoPjvBiSyHeE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/Lounge Suite (Bathroom).620g1w3to8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\Lounge Suite (Bathroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"620g1w3to8"},{"Name":"integrity","Value":"sha256-sgqUWH4gyZ2crI4gPqP1LZzLEdoMSsPqowjctdl16a4="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/Lounge Suite (Bathroom).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9475258"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sgqUWH4gyZ2crI4gPqP1LZzLEdoMSsPqowjctdl16a4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/Lounge Suite (Bathroom).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\Lounge Suite (Bathroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sgqUWH4gyZ2crI4gPqP1LZzLEdoMSsPqowjctdl16a4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9475258"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sgqUWH4gyZ2crI4gPqP1LZzLEdoMSsPqowjctdl16a4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/Thumbs.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xLDdvGzQQ3iZ2DIk6KioAe5duxM0vxddBygvCon1NRU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14848"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022xLDdvGzQQ3iZ2DIk6KioAe5duxM0vxddBygvCon1NRU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/Thumbs.gnj3949o1w.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Lounge Suite\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gnj3949o1w"},{"Name":"integrity","Value":"sha256-xLDdvGzQQ3iZ2DIk6KioAe5duxM0vxddBygvCon1NRU="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Lounge Suite/Thumbs.db"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14848"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022xLDdvGzQQ3iZ2DIk6KioAe5duxM0vxddBygvCon1NRU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite  (Terrace &amp; Pool).awwlppo7l1.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite  (Terrace &amp; Pool).JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"awwlppo7l1"},{"Name":"integrity","Value":"sha256-NmkPC5KMG2fUU/V\u002B4dgfHWTevsJvTSvJEojywijh\u002BxI="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite  (Terrace \u0026 Pool).JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15944755"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NmkPC5KMG2fUU/V\u002B4dgfHWTevsJvTSvJEojywijh\u002BxI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite  (Terrace &amp; Pool).JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite  (Terrace &amp; Pool).JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NmkPC5KMG2fUU/V\u002B4dgfHWTevsJvTSvJEojywijh\u002BxI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15944755"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NmkPC5KMG2fUU/V\u002B4dgfHWTevsJvTSvJEojywijh\u002BxI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (1).3v3s6mq5li.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (1).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3v3s6mq5li"},{"Name":"integrity","Value":"sha256-cT/s\u002BWQ3\u002BgqSExAl4KhTDfeyNhU9RE5Fj9rDGc6H0Do="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (1).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4067563"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cT/s\u002BWQ3\u002BgqSExAl4KhTDfeyNhU9RE5Fj9rDGc6H0Do=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (1).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (1).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cT/s\u002BWQ3\u002BgqSExAl4KhTDfeyNhU9RE5Fj9rDGc6H0Do="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4067563"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cT/s\u002BWQ3\u002BgqSExAl4KhTDfeyNhU9RE5Fj9rDGc6H0Do=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (2).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (2).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lsPRUSBPGX/mX/3i/t1knFvSd\u002BqGkhIjaaTLma0fkog="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8977157"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022lsPRUSBPGX/mX/3i/t1knFvSd\u002BqGkhIjaaTLma0fkog=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (2).m1ryz70c37.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (2).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m1ryz70c37"},{"Name":"integrity","Value":"sha256-lsPRUSBPGX/mX/3i/t1knFvSd\u002BqGkhIjaaTLma0fkog="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (2).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8977157"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022lsPRUSBPGX/mX/3i/t1knFvSd\u002BqGkhIjaaTLma0fkog=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (Bathroom).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (Bathroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-f85pyxzhvZoRzx2uY8cJ0UGl\u002BQLXCG63cjIH5U5jmS4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10601859"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022f85pyxzhvZoRzx2uY8cJ0UGl\u002BQLXCG63cjIH5U5jmS4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (Bathroom).rx8hnk4kyc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (Bathroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rx8hnk4kyc"},{"Name":"integrity","Value":"sha256-f85pyxzhvZoRzx2uY8cJ0UGl\u002BQLXCG63cjIH5U5jmS4="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (Bathroom).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10601859"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022f85pyxzhvZoRzx2uY8cJ0UGl\u002BQLXCG63cjIH5U5jmS4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (Livingroom).cnxwgrjogs.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (Livingroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cnxwgrjogs"},{"Name":"integrity","Value":"sha256-WP7kp\u002BI\u002BozslD\u002BISL/GD\u002BFU7yXu9Ptut3tq1A1UzWJg="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (Livingroom).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16102373"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WP7kp\u002BI\u002BozslD\u002BISL/GD\u002BFU7yXu9Ptut3tq1A1UzWJg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite (Livingroom).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite (Livingroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WP7kp\u002BI\u002BozslD\u002BISL/GD\u002BFU7yXu9Ptut3tq1A1UzWJg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16102373"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WP7kp\u002BI\u002BozslD\u002BISL/GD\u002BFU7yXu9Ptut3tq1A1UzWJg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite Terrace.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite Terrace.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VywL/LsTqlZgIQxBP8GpakI7LsFrdiwj5AGAhl\u002B1nA4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17241878"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022VywL/LsTqlZgIQxBP8GpakI7LsFrdiwj5AGAhl\u002B1nA4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite Terrace.vy7wcs4qsf.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Pool Suite Terrace.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vy7wcs4qsf"},{"Name":"integrity","Value":"sha256-VywL/LsTqlZgIQxBP8GpakI7LsFrdiwj5AGAhl\u002B1nA4="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Pool Suite Terrace.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17241878"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022VywL/LsTqlZgIQxBP8GpakI7LsFrdiwj5AGAhl\u002B1nA4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Thumbs.arwnewcbjr.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"arwnewcbjr"},{"Name":"integrity","Value":"sha256-aizjf0SLDRnlGj/Cw8FhIyd9honrLSkUltNeHfuaT/M="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Thumbs.db"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"592384"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022aizjf0SLDRnlGj/Cw8FhIyd9honrLSkUltNeHfuaT/M=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Suites/Pool Suite/Thumbs.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Suites\Pool Suite\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aizjf0SLDRnlGj/Cw8FhIyd9honrLSkUltNeHfuaT/M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"592384"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022aizjf0SLDRnlGj/Cw8FhIyd9honrLSkUltNeHfuaT/M=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa (2).e1bxs8r3mp.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (2).JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e1bxs8r3mp"},{"Name":"integrity","Value":"sha256-IuLFC0ZNxt4s\u002BgkOlCbjT2FAcyTlRepjHV\u002B9y5yOQpk="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa (2).JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10245487"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IuLFC0ZNxt4s\u002BgkOlCbjT2FAcyTlRepjHV\u002B9y5yOQpk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa (2).JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (2).JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IuLFC0ZNxt4s\u002BgkOlCbjT2FAcyTlRepjHV\u002B9y5yOQpk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10245487"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IuLFC0ZNxt4s\u002BgkOlCbjT2FAcyTlRepjHV\u002B9y5yOQpk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa (general View).jjll90gkc6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (general View).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jjll90gkc6"},{"Name":"integrity","Value":"sha256-sfYHAxAzV5yOP/Mg\u002BPmI1dkZj4J\u002BWHHDoHZOGSu7HjE="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa (general View).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"528446"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sfYHAxAzV5yOP/Mg\u002BPmI1dkZj4J\u002BWHHDoHZOGSu7HjE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa (general View).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (general View).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sfYHAxAzV5yOP/Mg\u002BPmI1dkZj4J\u002BWHHDoHZOGSu7HjE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"528446"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sfYHAxAzV5yOP/Mg\u002BPmI1dkZj4J\u002BWHHDoHZOGSu7HjE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa (Romantic Bath).JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (Romantic Bath).JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-38VxnI\u002BOdLqxpUtCj0F3IbbkdXSyciDS1SHXdNOAvVs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10129058"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002238VxnI\u002BOdLqxpUtCj0F3IbbkdXSyciDS1SHXdNOAvVs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa (Romantic Bath).ljuucatuq0.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa (Romantic Bath).JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ljuucatuq0"},{"Name":"integrity","Value":"sha256-38VxnI\u002BOdLqxpUtCj0F3IbbkdXSyciDS1SHXdNOAvVs="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa (Romantic Bath).JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10129058"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002238VxnI\u002BOdLqxpUtCj0F3IbbkdXSyciDS1SHXdNOAvVs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Bathroom.cp582l7uu3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Bathroom.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cp582l7uu3"},{"Name":"integrity","Value":"sha256-IIsoZGgDRMy7gqk2h\u002B/RURRaphkZv\u002BYGYP1BmFeoXAE="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Bathroom.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4547865"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IIsoZGgDRMy7gqk2h\u002B/RURRaphkZv\u002BYGYP1BmFeoXAE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Bathroom.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Bathroom.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IIsoZGgDRMy7gqk2h\u002B/RURRaphkZv\u002BYGYP1BmFeoXAE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4547865"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IIsoZGgDRMy7gqk2h\u002B/RURRaphkZv\u002BYGYP1BmFeoXAE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Bedroom.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Bedroom.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ggmKmMbvG\u002Bn7grRSpHRWuMpU83gXnl9WnP7IGTL3mVc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4564697"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ggmKmMbvG\u002Bn7grRSpHRWuMpU83gXnl9WnP7IGTL3mVc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Bedroom.ybx724cbdp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Bedroom.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ybx724cbdp"},{"Name":"integrity","Value":"sha256-ggmKmMbvG\u002Bn7grRSpHRWuMpU83gXnl9WnP7IGTL3mVc="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Bedroom.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4564697"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ggmKmMbvG\u002Bn7grRSpHRWuMpU83gXnl9WnP7IGTL3mVc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Livingroom.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Livingroom.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DkA0KM/Zh22AKgnPmS48l37wvN9c35/qTA\u002BPvw0RXws="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4606327"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DkA0KM/Zh22AKgnPmS48l37wvN9c35/qTA\u002BPvw0RXws=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Livingroom.mnejzby7s6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Livingroom.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mnejzby7s6"},{"Name":"integrity","Value":"sha256-DkA0KM/Zh22AKgnPmS48l37wvN9c35/qTA\u002BPvw0RXws="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Livingroom.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4606327"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DkA0KM/Zh22AKgnPmS48l37wvN9c35/qTA\u002BPvw0RXws=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Terrace.0suhmcucnn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Terrace.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0suhmcucnn"},{"Name":"integrity","Value":"sha256-EBzy9HFCRDkSLtzzvgoRLsPWlIzIgdjlA1mNQ5MCbdE="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Terrace.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5000121"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022EBzy9HFCRDkSLtzzvgoRLsPWlIzIgdjlA1mNQ5MCbdE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Pool Villa Terrace.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Pool Villa Terrace.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EBzy9HFCRDkSLtzzvgoRLsPWlIzIgdjlA1mNQ5MCbdE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5000121"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022EBzy9HFCRDkSLtzzvgoRLsPWlIzIgdjlA1mNQ5MCbdE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Terrasse Pool Villa.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Terrasse Pool Villa.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ndSr8srQvHDtjC/VkeFHVS12xgHlPFzRPaTDqZiVC4I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9687925"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ndSr8srQvHDtjC/VkeFHVS12xgHlPFzRPaTDqZiVC4I=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Terrasse Pool Villa.r6v2th8mci.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Terrasse Pool Villa.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r6v2th8mci"},{"Name":"integrity","Value":"sha256-ndSr8srQvHDtjC/VkeFHVS12xgHlPFzRPaTDqZiVC4I="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Terrasse Pool Villa.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9687925"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ndSr8srQvHDtjC/VkeFHVS12xgHlPFzRPaTDqZiVC4I=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Thumbs.1h9b7ejden.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1h9b7ejden"},{"Name":"integrity","Value":"sha256-SyzuN9y/0WTLmJ/DmspTEJZSV8VdFDj4KBldLGXUUi8="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Thumbs.db"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"136704"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022SyzuN9y/0WTLmJ/DmspTEJZSV8VdFDj4KBldLGXUUi8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Pool Villa/Thumbs.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Pool Villa\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SyzuN9y/0WTLmJ/DmspTEJZSV8VdFDj4KBldLGXUUi8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"136704"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022SyzuN9y/0WTLmJ/DmspTEJZSV8VdFDj4KBldLGXUUi8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/DAK_5217.5j59i7tr25.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\DAK_5217.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5j59i7tr25"},{"Name":"integrity","Value":"sha256-vx1GWgRiela8qheqrjrAgM7banHTN9XVs2K/CBxy8CQ="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/DAK_5217.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9973103"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vx1GWgRiela8qheqrjrAgM7banHTN9XVs2K/CBxy8CQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/DAK_5217.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\DAK_5217.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vx1GWgRiela8qheqrjrAgM7banHTN9XVs2K/CBxy8CQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9973103"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vx1GWgRiela8qheqrjrAgM7banHTN9XVs2K/CBxy8CQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Thumbs.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CQY2H0plIY2YmoziQ/OxJOslBgCKt\u002BQE577JeVAAt48="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"154624"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022CQY2H0plIY2YmoziQ/OxJOslBgCKt\u002BQE577JeVAAt48=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Thumbs.r72fh4wss1.db">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Thumbs.db'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r72fh4wss1"},{"Name":"integrity","Value":"sha256-CQY2H0plIY2YmoziQ/OxJOslBgCKt\u002BQE577JeVAAt48="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Thumbs.db"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"154624"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022CQY2H0plIY2YmoziQ/OxJOslBgCKt\u002BQE577JeVAAt48=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Bathroom).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bathroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mIy1Pv71COlohTfYuFvDWNn/cnxJNdXjri9LUJaRADc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17307855"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mIy1Pv71COlohTfYuFvDWNn/cnxJNdXjri9LUJaRADc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Bathroom).wm2decol5b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bathroom).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wm2decol5b"},{"Name":"integrity","Value":"sha256-mIy1Pv71COlohTfYuFvDWNn/cnxJNdXjri9LUJaRADc="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Bathroom).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17307855"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mIy1Pv71COlohTfYuFvDWNn/cnxJNdXjri9LUJaRADc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Bedroom 2).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bedroom 2).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ETiCEakEtNOKQiRsPyYSMB/xWhrNgEfe1FCOC1HObYo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17621368"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ETiCEakEtNOKQiRsPyYSMB/xWhrNgEfe1FCOC1HObYo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Bedroom 2).rhn8bhp1am.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bedroom 2).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rhn8bhp1am"},{"Name":"integrity","Value":"sha256-ETiCEakEtNOKQiRsPyYSMB/xWhrNgEfe1FCOC1HObYo="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Bedroom 2).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17621368"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ETiCEakEtNOKQiRsPyYSMB/xWhrNgEfe1FCOC1HObYo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Bedroom 3).577oykyatu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bedroom 3).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"577oykyatu"},{"Name":"integrity","Value":"sha256-j/NO40Zq7wLQvd\u002B\u002BvQr92Nmpbi/X69s8yM23uSnThAI="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Bedroom 3).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16441263"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022j/NO40Zq7wLQvd\u002B\u002BvQr92Nmpbi/X69s8yM23uSnThAI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Bedroom 3).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Bedroom 3).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j/NO40Zq7wLQvd\u002B\u002BvQr92Nmpbi/X69s8yM23uSnThAI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16441263"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022j/NO40Zq7wLQvd\u002B\u002BvQr92Nmpbi/X69s8yM23uSnThAI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Garden).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Garden).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3m\u002BMKZGQPx0NrprlZKaeRZejjQsONqzL3DrTT2ZKM3o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21501712"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223m\u002BMKZGQPx0NrprlZKaeRZejjQsONqzL3DrTT2ZKM3o=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Garden).qpglwios9i.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Garden).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qpglwios9i"},{"Name":"integrity","Value":"sha256-3m\u002BMKZGQPx0NrprlZKaeRZejjQsONqzL3DrTT2ZKM3o="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Garden).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21501712"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223m\u002BMKZGQPx0NrprlZKaeRZejjQsONqzL3DrTT2ZKM3o=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (General View).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (General View).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-81tkJMZrgsRYGk\u002BQat2UWCba67oLsy/EHUvMAvfdRbI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4480832"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002281tkJMZrgsRYGk\u002BQat2UWCba67oLsy/EHUvMAvfdRbI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (General View).v5yodj87j7.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (General View).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v5yodj87j7"},{"Name":"integrity","Value":"sha256-81tkJMZrgsRYGk\u002BQat2UWCba67oLsy/EHUvMAvfdRbI="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (General View).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4480832"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002281tkJMZrgsRYGk\u002BQat2UWCba67oLsy/EHUvMAvfdRbI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Salon).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Salon).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5yodDyhLtlcgWKLyqcuB6VVctGqBl/zxdMbfVAvkESM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15954919"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225yodDyhLtlcgWKLyqcuB6VVctGqBl/zxdMbfVAvkESM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Salon).vy825nr0c5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar (Salon).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vy825nr0c5"},{"Name":"integrity","Value":"sha256-5yodDyhLtlcgWKLyqcuB6VVctGqBl/zxdMbfVAvkESM="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar (Salon).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15954919"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225yodDyhLtlcgWKLyqcuB6VVctGqBl/zxdMbfVAvkESM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar Bathroom.0pl882jx47.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Bathroom.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0pl882jx47"},{"Name":"integrity","Value":"sha256-1N98f2PR9aMCCxIneFH45UT\u002BskZAJ9YP7Z7Q6zWAvsc="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar Bathroom.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5081767"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221N98f2PR9aMCCxIneFH45UT\u002BskZAJ9YP7Z7Q6zWAvsc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar Bathroom.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Bathroom.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1N98f2PR9aMCCxIneFH45UT\u002BskZAJ9YP7Z7Q6zWAvsc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5081767"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221N98f2PR9aMCCxIneFH45UT\u002BskZAJ9YP7Z7Q6zWAvsc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar Bedroom 1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Bedroom 1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-szv01d/FhRBMRxNOU3EZHl3U5BKCS/jdw1SRAUot2Nw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3829629"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022szv01d/FhRBMRxNOU3EZHl3U5BKCS/jdw1SRAUot2Nw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar Bedroom 1.z8707csx19.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Bedroom 1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z8707csx19"},{"Name":"integrity","Value":"sha256-szv01d/FhRBMRxNOU3EZHl3U5BKCS/jdw1SRAUot2Nw="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar Bedroom 1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3829629"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022szv01d/FhRBMRxNOU3EZHl3U5BKCS/jdw1SRAUot2Nw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar Living Room.g0leg02jgg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Living Room.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g0leg02jgg"},{"Name":"integrity","Value":"sha256-4FEx0Qsmc8A/lBVQ37FohT5a1Pnk57l8LZjCosZwu2M="},{"Name":"label","Value":"_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar Living Room.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4851284"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224FEx0Qsmc8A/lBVQ37FohT5a1Pnk57l8LZjCosZwu2M=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HotelReservation/images/gallery/Hebergement/Villas/Villa Namaskar/Villa Namaskar Living Room.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gallery\Hebergement\Villas\Villa Namaskar\Villa Namaskar Living Room.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4FEx0Qsmc8A/lBVQ37FohT5a1Pnk57l8LZjCosZwu2M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4851284"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224FEx0Qsmc8A/lBVQ37FohT5a1Pnk57l8LZjCosZwu2M=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Mar 2023 14:25:35 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HotelReservation/images/icons/preloader.gif">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\icons\preloader.gif'))</AssetFile>
