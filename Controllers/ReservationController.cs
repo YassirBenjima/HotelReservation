@@ -4,17 +4,17 @@ using HotelReservation.ViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.IO;
 using System.Security.Claims;
-using System.Text;
-using MimeKit;
-using MailKit.Net.Smtp;
-using MailKit.Security;
 using iText.Kernel.Pdf;
 using iText.Layout;
 using iText.Layout.Element;
-using System.IO;
 using iText.IO.Font.Constants;
 using iText.Kernel.Font;
+using MimeKit;
+using MailKit.Net.Smtp;
+using MailKit.Security;
+using System;
 
 namespace HotelReservation.Controllers
 {
@@ -49,14 +49,9 @@ namespace HotelReservation.Controllers
 
             var clientIdClaim = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
 
-            if (string.IsNullOrEmpty(clientIdClaim))
+            if (string.IsNullOrEmpty(clientIdClaim) || !int.TryParse(clientIdClaim, out int clientId))
             {
                 return RedirectToAction("Login", "Account");
-            }
-
-            if (!int.TryParse(clientIdClaim, out int clientId))
-            {
-                return BadRequest("L'identifiant utilisateur est invalide.");
             }
 
             var reservation = new Reservation
@@ -70,8 +65,16 @@ namespace HotelReservation.Controllers
                 ReservationRoomNumberNavigation = room
             };
 
-            _context.Reservations.Add(reservation);
-            _context.SaveChanges();
+            try
+            {
+                _context.Reservations.Add(reservation);
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error saving reservation: {ex.Message}");
+                return StatusCode(500, "Erreur lors de la création de la réservation.");
+            }
 
             return RedirectToAction("Confirmation", new { reservationId = reservation.ReservationId });
         }
@@ -102,18 +105,9 @@ namespace HotelReservation.Controllers
             return View(model);
         }
 
-        private decimal CalculateTotalAmount(Reservation reservation)
-        {
-            var roomRate = reservation.ReservationRoomNumberNavigation.RoomPrice;
-            var numberOfNights = (reservation.ReservationOut.ToDateTime(new TimeOnly(0, 0)) - reservation.ReservationIn.ToDateTime(new TimeOnly(0, 0))).Days;
-            return roomRate * numberOfNights;
-        }
-
         [HttpGet]
         public IActionResult PaymentSuccess(int reservationId)
         {
-            Console.WriteLine($"Searching for Reservation with ID: {reservationId}");
-
             var reservation = _context.Reservations
                 .Include(r => r.ReservationClient)
                 .Include(r => r.ReservationRoomNumberNavigation)
@@ -121,7 +115,6 @@ namespace HotelReservation.Controllers
 
             if (reservation == null)
             {
-                Console.WriteLine($"Reservation with ID {reservationId} not found.");
                 return NotFound("Réservation introuvable.");
             }
 
@@ -130,103 +123,127 @@ namespace HotelReservation.Controllers
             if (room != null)
             {
                 room.RoomStatus = "Non";
-                _context.SaveChanges();
-                Console.WriteLine($"Room {room.RoomNumber} status updated to {room.RoomStatus}");
+                try
+                {
+                    _context.SaveChanges();
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error updating room status: {ex.Message}");
+                }
             }
 
-            var voucherContent = GenerateReservationVoucher(reservation);
-
-            // Send Confirmation Email
-            SendConfirmationEmail(reservation.ReservationClient.Email, voucherContent);
-
-            // Generate and download the PDF reservation voucher
+            // Génération du PDF
             var pdfStream = GenerateReservationVoucherPdf(reservation);
 
-            // Return the PDF as a file for download
+            if (pdfStream == null || pdfStream.Length == 0)
+            {
+                Console.WriteLine("Error: PDF not generated or empty.");
+                return StatusCode(500, "Erreur lors de la génération du PDF.");
+            }
+
+            // Ensure that the stream is at the beginning before returning the file
+            pdfStream.Position = 0;
+
+            try
+            {
+                SendConfirmationEmailWithAttachment(reservation.ReservationClient.Email, pdfStream);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error sending email: {ex.Message}");
+            }
+
+            // Return PDF file for download
             return File(pdfStream, "application/pdf", "ReservationVoucher.pdf");
         }
 
-        private string GenerateReservationVoucher(Reservation reservation)
-        {
-            var sb = new StringBuilder();
-            sb.AppendLine("Reservation Voucher");
-            sb.AppendLine("-------------------");
-            sb.AppendLine($"Reservation ID: {reservation.ReservationId}");
-            sb.AppendLine($"Room Type: {reservation.ReservationRoomType}");
-            sb.AppendLine($"Check-In Date: {reservation.ReservationIn.ToDateTime(new TimeOnly(0, 0)):yyyy-MM-dd}");
-            sb.AppendLine($"Check-Out Date: {reservation.ReservationOut.ToDateTime(new TimeOnly(0, 0)):yyyy-MM-dd}");
-            sb.AppendLine($"Client: {reservation.ReservationClient.FirstName} {reservation.ReservationClient.LastName}");
-            sb.AppendLine($"Total Amount: {CalculateTotalAmount(reservation)} USD");
-            sb.AppendLine("-------------------");
-            sb.AppendLine("Thank you for choosing us!");
 
-            return sb.ToString();
+        private decimal CalculateTotalAmount(Reservation reservation)
+        {
+            var roomRate = reservation.ReservationRoomNumberNavigation.RoomPrice;
+            var numberOfNights = (reservation.ReservationOut.ToDateTime(new TimeOnly(0, 0)) - reservation.ReservationIn.ToDateTime(new TimeOnly(0, 0))).Days;
+            return roomRate * numberOfNights;
         }
 
         private MemoryStream GenerateReservationVoucherPdf(Reservation reservation)
         {
-            var memoryStream = new MemoryStream();
-            var writer = new PdfWriter(memoryStream);
-            var pdf = new PdfDocument(writer);
-            var document = new Document(pdf);
-
-            // Charger la police par défaut en gras
-            var font = PdfFontFactory.CreateFont(StandardFonts.HELVETICA_BOLD);
-
-            // Ajouter le contenu au document
-            document.Add(new Paragraph("Reservation Voucher")
-                .SetFont(font)
-                .SetFontSize(18));
-            document.Add(new Paragraph("-------------------"));
-            document.Add(new Paragraph($"Reservation ID: {reservation.ReservationId}"));
-            document.Add(new Paragraph($"Room Type: {reservation.ReservationRoomType}"));
-            document.Add(new Paragraph($"Check-In Date: {reservation.ReservationIn.ToDateTime(new TimeOnly(0, 0)):yyyy-MM-dd}"));
-            document.Add(new Paragraph($"Check-Out Date: {reservation.ReservationOut.ToDateTime(new TimeOnly(0, 0)):yyyy-MM-dd}"));
-            document.Add(new Paragraph($"Client: {reservation.ReservationClient.FirstName} {reservation.ReservationClient.LastName}"));
-            document.Add(new Paragraph($"Total Amount: {CalculateTotalAmount(reservation)} USD"));
-            document.Add(new Paragraph("-------------------"));
-            document.Add(new Paragraph("Thank you for choosing us!"));
-
-            document.Close();
-            memoryStream.Position = 0;
-
-            return memoryStream;
-        }
-
-        private void SendConfirmationEmail(string recipientEmail, string voucherContent)
-        {
-            var message = new MimeMessage();
-            message.From.Add(new MailboxAddress("Hotel Reservation", "your-email@domain.com"));
-            message.To.Add(new MailboxAddress("", recipientEmail));
-            message.Subject = "Reservation Confirmation";
-
-            var body = new TextPart("plain")
+            try
             {
-                Text = voucherContent
-            };
+                var memoryStream = new MemoryStream();
+                var writer = new PdfWriter(memoryStream);
+                var pdf = new PdfDocument(writer);
+                var document = new Document(pdf);
 
-            message.Body = body;
+                var font = PdfFontFactory.CreateFont(StandardFonts.HELVETICA_BOLD);
 
-            using (var client = new SmtpClient())
+                document.Add(new Paragraph("Reservation Voucher").SetFont(font).SetFontSize(18));
+                document.Add(new Paragraph("-------------------"));
+                document.Add(new Paragraph($"Reservation ID: {reservation.ReservationId}"));
+                document.Add(new Paragraph($"Room Type: {reservation.ReservationRoomType}"));
+                document.Add(new Paragraph($"Check-In Date: {reservation.ReservationIn.ToDateTime(new TimeOnly(0, 0)):yyyy-MM-dd}"));
+                document.Add(new Paragraph($"Check-Out Date: {reservation.ReservationOut.ToDateTime(new TimeOnly(0, 0)):yyyy-MM-dd}"));
+                document.Add(new Paragraph($"Client: {reservation.ReservationClient.FirstName} {reservation.ReservationClient.LastName}"));
+                document.Add(new Paragraph($"Total Amount: {CalculateTotalAmount(reservation)} USD"));
+                document.Add(new Paragraph("-------------------"));
+                document.Add(new Paragraph("Thank you for choosing us!"));
+
+                document.Close();
+                memoryStream.Position = 0;
+
+                // Save the PDF to disk for debugging
+                using (var fileStream = new FileStream("ReservationVoucherTest.pdf", FileMode.Create, FileAccess.Write))
+                {
+                    memoryStream.WriteTo(fileStream);
+                }
+
+                Console.WriteLine("PDF generated and saved successfully.");
+                return memoryStream;
+            }
+            catch (Exception ex)
             {
-                try
-                {
-                    client.Connect("sandbox.smtp.mailtrap.io", 587, SecureSocketOptions.StartTls);
-                    client.Authenticate("6c8352358343fc", "8bd6571eb4cd04");
-                    client.Send(message);
-                    Console.WriteLine("Confirmation email sent successfully!");
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine($"Error sending email: {ex.Message}");
-                }
-                finally
-                {
-                    client.Disconnect(true);
-                    client.Dispose();
-                }
+                Console.WriteLine($"Error generating PDF: {ex.Message}");
+                return null;
             }
         }
 
+        public void SendConfirmationEmailWithAttachment(string recipientEmail, MemoryStream pdfStream)
+        {
+            try
+            {
+                Console.WriteLine("Préparation de l'email...");
+                // Créez le message de l'email avec MimeKit
+                var emailMessage = new MimeMessage();
+                emailMessage.From.Add(new MailboxAddress("From Name", "from@example.com"));
+                emailMessage.To.Add(new MailboxAddress("To Name", recipientEmail));
+                emailMessage.Subject = "Reservation Confirmation";
+
+                var bodyBuilder = new BodyBuilder
+                {
+                    TextBody = "Dear Customer,\n\nYour reservation has been confirmed. Please find the attached voucher."
+                };
+
+                // Attacher le PDF
+                pdfStream.Position = 0; // Réinitialiser la position du flux avant de l'attacher
+                bodyBuilder.Attachments.Add("ReservationVoucher.pdf", pdfStream.ToArray(), new ContentType("application", "pdf"));
+
+                emailMessage.Body = bodyBuilder.ToMessageBody();
+
+                // Envoi de l'email avec MailKit
+                using (var smtpClient = new SmtpClient())
+                {
+                    smtpClient.Connect("sandbox.smtp.mailtrap.io", 2525, SecureSocketOptions.StartTls);
+                    smtpClient.Authenticate("6c8352358343fc", "8bd6571eb4cd04");
+                    smtpClient.Send(emailMessage);
+                    smtpClient.Disconnect(true);
+                }
+
+                Console.WriteLine("Email sent successfully.");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error sending email: {ex.Message}");
+            }
+        }
     }
 }

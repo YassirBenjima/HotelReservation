@@ -161,8 +161,8 @@
         },
         onApprove: function(data, actions) {
             return actions.order.capture().then(function(details) {
-                // Appeler votre action pour valider le paiement
-                window.location.href = '/Reservation/PaymentSuccess/' + '@Model.ReservationId';
+                // Redirection vers la page d'accueil après une réservation réussie
+                window.location.href = '@Url.Action("Index", "Home")';
             });
         },
         onError: function(err) {
@@ -170,4 +170,5 @@
         }
     }).render('#paypal-button-container');
 </script>
+
 
